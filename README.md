@@ -1,6 +1,8 @@
 ## Olá! eu sou Davíd Roggér!!
 ### Sou estudante de desenvolvimento web fullstack, em uma escola maravilhosa! :rocket:[Trybe!](https://www.betrybe.com/)
 
+##
+
 <div align="center">
   <a href="https://github.com/davidrogger">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidrogger&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -17,6 +19,8 @@
 <div>
   ![Snake animation](https://github.com/davidrogger/davidrogger/blob/output/github-contribution-grid-snake.svg) 
 </div>
+
+##
 
 <div>
 <a href="https://www.linkedin.com/in/davidrogger/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
