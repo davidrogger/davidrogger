@@ -17,7 +17,7 @@
 ##
 
 <div>
-  ![Snake animation](https://raw.githubusercontent.com/davidrogger/davidrogger/e201b26bbff0d07cbe62468d62eefd0707c1c09f/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/davidrogger/davidrogger/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ##
