@@ -1,5 +1,5 @@
 ## Olá! Eu sou Davíd Roggér!!
-### Sou estudante de desenvolvimento web fullstack, em uma escola maravilhosa! :rocket:[Trybe!](https://www.betrybe.com/)
+### Sou estudante de desenvolvimento web fullstack! :rocket:[Trybe!](https://www.betrybe.com/)
 
 ##
 
@@ -23,5 +23,5 @@
 ##
 
 <div>
-<a href="https://www.linkedin.com/in/davidrogger/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/davidrogger/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
