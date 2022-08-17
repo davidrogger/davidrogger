@@ -2,6 +2,7 @@
 ### Sou estudante de desenvolvimento web fullstack na escola :rocket:[Trybe!](https://www.betrybe.com/).
 #
 - 👨‍💻 Atualmente estou na reta final do modulo de Backend, me familiarizando com POO e typescript.
+- :writing_hand: A cada dia que passa no modulo de backend eu me identifico mais com a área, ainda quero me aprofundar mais na área de testes QA e backend, mas assim que aparecer uma oportunidade quero mergulhar na parte de cyber security!
 
 #
 ### Linguagens e ferramentas 🛠
