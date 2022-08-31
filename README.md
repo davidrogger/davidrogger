@@ -35,4 +35,8 @@
 <h3>Contato:</h3>
 <div>
 <a href="https://www.linkedin.com/in/davidrogger/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<h1 align="center">
+  <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=davidrogger" />
+  <img align="right" src="https://img.shields.io/github/followers/davidrogger?label=Follow&style=social" />
+</h1>
 </div>
