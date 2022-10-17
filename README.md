@@ -34,9 +34,16 @@
 <div align="center">
   <a href="https://github.com/davidrogger">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidrogger&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=davidrogger&theme=dark"/>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidrogger&layout=compact&langs_count=7&theme=dark"/>
   </a>
+
+  <a href=https://www.codewars.com/users/davidrogger>
+    <img height="180em" src="https://github.r2v.ch/codewars?user=davidrogger&name=true&top_languages=true&stroke=%23BB432C"/>
+  </a>
+
 </div>
 <hr>
 <h3>Contato:</h3>
