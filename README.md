@@ -41,7 +41,7 @@
   </a>
 
   <a href=https://www.codewars.com/users/davidrogger>
-    <img height="180em" src="https://github.r2v.ch/codewars?user=davidrogger&name=true&top_languages=true&stroke=%23BB432C"/>
+    <img height="180em" src="https://github.r2v.ch/codewars?user=davidrogger&name=true&top_languages=true&stroke=white"/>
   </a>
 
 </div>
