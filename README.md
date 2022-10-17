@@ -1,8 +1,8 @@
 ## Olá! Meu nome é Davíd Roggér!!
 ### Sou estudante de desenvolvimento web fullstack na escola :rocket:[Trybe!](https://www.betrybe.com/).
 #
-- 👨‍💻 Iniciando o modulo de Ciências da Computação, iniciando por aprender uma nova linguagem, python :snake:
-- Após finalizar o modulo de backend, notei que gosto do desafio proposto por ambos ambientes, seja frontend ou backend, continuo treinando a parte de testes e embreve devo começar com cyber security!
+- 👨‍💻 Iniciando o modulo de Ciências da Computação, aprendendo uma nova linguagem, python :snake:
+- writing_hand Após finalizar o modulo com o projeto App Delivery de backend, notei que gosto do desafio proposto por ambos ambientes, seja frontend ou backend, continuo treinando a parte de testes e embreve devo começar com cyber security!
 
 #
 ### Linguagens e ferramentas 🛠
