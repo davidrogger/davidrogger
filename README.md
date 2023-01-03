@@ -1,8 +1,7 @@
-## Bem vindo ao meu github!!
-### Sou novo com desenvolvimento web fullstack
+# Bem vindo ao meu github!
+
+Olá! Meu name é Davíd, sou iniciante na área com desenvolvimento web fullstack.
 #
-- 👨‍💻 Iniciando o modulo de Ciências da Computação, aprendendo uma nova linguagem, python :snake:
-- :writing_hand: Após finalizar o modulo com o projeto App Delivery de backend, notei que gosto do desafio proposto por ambos ambientes, seja frontend ou backend, continuo treinando a parte de testes e devo começar com cyber security!
 
 #
 ### Linguagens e ferramentas 🛠
