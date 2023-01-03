@@ -36,8 +36,6 @@ Olá! Meu name é Davíd, sou iniciante na área com desenvolvimento web fullsta
 <div align="center">
   <a href="https://github.com/davidrogger">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidrogger&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=davidrogger&theme=dark"/>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidrogger&layout=compact&langs_count=7&theme=dark"/>
   </a>
