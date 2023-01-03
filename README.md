@@ -29,6 +29,9 @@ Olá! Meu name é Davíd, sou iniciante na área com desenvolvimento web fullsta
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![JWToken](https://img.shields.io/badge/-JWToken-000?style=flat-square&logo=jsonwebtokens&logoColor=d63aff)
 ![Python](https://img.shields.io/badge/-Python-%23F7DF1C?style=flat-square&logo=python)
+![Pytest](https://img.shields.io/badge/-Pytest-fff?style=flat-square&logo=pytest)
+![Pymongo](https://img.shields.io/badge/-Pymongo-b?style=flat-square&logo=Pymongo)
+
 
 <div align="center">
   <a href="https://github.com/davidrogger">
