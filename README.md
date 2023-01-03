@@ -42,10 +42,6 @@ Olá! Meu name é Davíd, sou iniciante na área com desenvolvimento web fullsta
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidrogger&layout=compact&langs_count=7&theme=dark"/>
   </a>
 
-  <a href=https://www.codewars.com/users/davidrogger>
-    <img height="180em" src="https://github.r2v.ch/codewars?user=davidrogger&name=true&top_languages=true&stroke=white"/>
-  </a>
-
 </div>
 <hr>
 <h3>Contato:</h3>
