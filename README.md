@@ -1,6 +1,6 @@
 # Bem vindo ao meu github!
 
-Olá! Meu nome é David, moro no interior de [São Paulo](https://pt.wikipedia.org/wiki/S%C3%A3o_Paulo), uma cidade chamada [Boituva](https://www.boituva.sp.gov.br/), estou iniciando profissionalmente na área com desenvolvimento web fullstack.
+Olá! Meu nome é [Davíd Roggér](https://www.linkedin.com/in/davidrogger/), moro no interior de [São Paulo](https://pt.wikipedia.org/wiki/S%C3%A3o_Paulo), uma cidade chamada [Boituva](https://www.boituva.sp.gov.br/), estou iniciando profissionalmente na área com desenvolvimento web fullstack.
 ## Sobre:
 
 Minha paixão por jogos acabou criando consequentemente uma relação com tecnologia, por gostar de reconhecer padrões entendendo melhor os objetivos e desafios para evoluir e conquistar aquela fase/projeto.
