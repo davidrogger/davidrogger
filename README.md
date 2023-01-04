@@ -1,9 +1,14 @@
 # Bem vindo ao meu github!
 
-Olá! Meu name é Davíd, sou iniciante na área com desenvolvimento web fullstack.
-#
+Olá! Meu nome é David, moro no interior de [São Paulo](https://pt.wikipedia.org/wiki/S%C3%A3o_Paulo), uma cidade chamada [Boituva](https://www.boituva.sp.gov.br/), estou iniciando profissionalmente na área com desenvolvimento web fullstack.
+## Sobre:
 
-#
+Minha paixão por jogos acabou criando consequentemente uma relação com tecnologia, por gostar de reconhecer padrões entendendo melhor os objetivos e desafios para evoluir e conquistar aquela fase/projeto.
+
+## Experiências
+
+Trabalhei por alguns anos prestando suporte e manutenção de computadores, meus conhecimentos e habilidades de aprendizagem e colaboração como técnico me levaram para outra área de trabalho que era de projetista mecânico, analisando os ultimos 4 anos trabalhando como projetista, mesmo gostando muito da área, minha paixão por tecnológica ainda era maior, e juntamente com a vontade de ter uma expeciência com horarios mais flexiveis trabalhando home office, abrindo possibilidades de trabalhar de qualquer lugar, sem preocupação com deslocamento, então no final do ano de 2021 resolvi me desligar da parte de projetos mecânicos, e focar totalmente na área de desenvolvimento, começando minha nova jornada com dev, cursando a [trybe](https://www.betrybe.com/).
+
 ### Linguagens e ferramentas 🛠
 
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
