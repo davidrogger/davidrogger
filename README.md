@@ -15,7 +15,7 @@ Começando minha jornada como dev em novembro de 2021, foquei totalmente no cont
 
 ### Fundamentos
 
-Onde conheci o github e seu funcionamento, aprendi a primeira linguagem, Javascript e aumentei o nível de lógica de programação, focando sempre em boas práticas, foi apresentando e executado o uso de testes como algo fundamental no dia a dia para desenvolver aplicações com mais qualidade.
+Onde conheci o github e seu funcionamento, aprendi minha primeira linguagem, Javascript e aumentei o nível de lógica de programação, focando sempre em boas práticas, foi apresentando e executado o uso de testes como algo fundamental no dia a dia para desenvolver aplicações com mais qualidade.
 
 ### Linguagens e ferramentas 🛠
 
