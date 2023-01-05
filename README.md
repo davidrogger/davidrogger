@@ -21,7 +21,7 @@ Atualmente junto com amigos no discord, para jogarmos jogos coop, entre muitos o
 Trabalhei por alguns anos prestando suporte e manutenção de computadores, meus conhecimentos e habilidades de aprendizagem e colaboração como técnico me levaram para outra área de trabalho que era de projetista mecânico, analisando os ultimos 4 anos trabalhando como projetista, mesmo gostando muito da área, minha paixão por tecnológica ainda era maior, e juntamente com a vontade de ter uma expeciência com horarios mais flexiveis trabalhando home office, abrindo possibilidades de trabalhar de qualquer lugar, sem preocupação com deslocamento, então no final do ano de 2021 resolvi me desligar da parte de projetos mecânicos, e focar totalmente na área de desenvolvimento, começando minha nova jornada com dev, cursando a [trybe](https://www.betrybe.com/).
 
 #
-## Iniciando como dev
+### Iniciando como dev
 
 Começando minha jornada como dev em novembro de 2021, foquei totalmente no contéudo oferecido pela trybe, onde tive 4 módulos.
 
