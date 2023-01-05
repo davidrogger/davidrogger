@@ -71,7 +71,7 @@ Começando minha jornada como dev em novembro de 2021, foquei totalmente no cont
   </summary>
 
   #
-  lore
+  Esse modulo foi focado em aprender o funcionamento da biblioteca React.js, por ser muito reconhecida e usada no mercado de trabalho, aprendi a utilizar ela usando classes inicialmente para ser apto há realizar manutenção caso me depare com algum legado futuramente e por ser mais complicada comparando com sua versão funcional. Durante esse bloco também aprende conceitos básicos e noções de uso do Agile usando Scrum e Kanban nos projetos em grupo.
   <details>
     <summary>
       <strong>
@@ -81,9 +81,15 @@ Começando minha jornada como dev em novembro de 2021, foquei totalmente no cont
 
   <div>
    <ol>
-    <li> Primeiro </li>
-    <li> Secundo </li>
-    <li> Terceiro </li>
+    <li><a href="">Solar System</li>
+    <li><a href="">Tryunfo</li>
+    <li><a href="">TrybeTunes</li>
+    <li><a href="">Front-end Online Store</li>
+    <li><a href="">Testes em React</li>
+    <li><a href="">Trybe Wallet</li>
+    <li><a href="">Jogo de Trivia</li>
+    <li><a href="">StarWars Datatable com Conext API e Hooks</li>
+    <li><a href="">App de Receitas</li>
    </ol>
    
   </div>
