@@ -23,7 +23,7 @@ Trabalhei por alguns anos prestando suporte e manutenção de computadores, meus
 #
 ### Iniciando como dev
 
-Começando minha jornada como dev em novembro de 2021, foquei totalmente no contéudo oferecido pela trybe, onde tive 4 módulos.
+Começando minha jornada como dev em novembro de 2021, foquei totalmente no contéudo oferecido pela trybe, onde passei por 4 módulos.
 
 <details>
   <summary>
