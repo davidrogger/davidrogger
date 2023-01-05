@@ -14,7 +14,7 @@ Minha meta esse ano, é de continuar estudando mais, e aumentando mais meus conh
 ### O que faço em minhas horas vagas
 
 Tenho o hábito de reunir com alguns amigos durante o periodo da noite, para jogar, sempre fui uma pessoa que gosta de jogos multiplayer, até mesmo fora da época de internet, minha irmã que o diga haha, a gente jogava muitos jogos juntos [Zombies Ate My Neighbors](https://pt.wikipedia.org/wiki/Zombies_Ate_My_Neighbors), [Sunset Riders](https://pt.wikipedia.org/wiki/Sunset_Riders), etc...
-Atualmente junto com amigos no discord, para jogarmos jogos coop, entre muitos outros conversarmos sobre animes, um jogo que eu guardo até hoje no coração e na saudades é [Wildstar](https://en.wikipedia.org/wiki/WildStar) ele foi um action mmorpg, onde conheci muitos amigos que tenho contato até hoje, onde superamos dungeons que exigiam uma coordanação e colaboração geral muito grande.
+Atualmente junto com amigos no discord, para jogarmos jogos coop, entre muitos outros conversarmos sobre animes, um jogo que eu guardo até hoje no coração e na saudades é [Wildstar](https://en.wikipedia.org/wiki/WildStar) ele foi um action mmorpg, onde conheci muitos amigos que tenho contato até hoje, onde superamos dungeons que exigiam uma coordenação e colaboração geral muito grande.
 #
 ### Experiências Profissionais
 
