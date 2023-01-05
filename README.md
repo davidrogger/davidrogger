@@ -126,7 +126,7 @@ Começando minha jornada como dev em novembro de 2021, foquei totalmente no cont
   </summary>
 
   #
-  lore
+  Foi iniciada uma nova linguagem, Python, padrões de projetos, raspagem de dados, complexidade de tempo e espaço com algoritmos e estrutura de dados, com alocamento de memória, funcionamento de pilhas, filas, conjuntos entre muitas outros conceitos e padrões.
   <details>
     <summary>
       <strong>
