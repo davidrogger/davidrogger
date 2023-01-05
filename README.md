@@ -11,8 +11,12 @@ Com a conclusão da minha meta de 2022 em iniciar uma línguagem, fortalecer min
 
 Minha meta esse ano, é de continuar estudando mais, e abrindo mais meus conhecimento seguindo os mesmos passos que segui no ano de 2022, estudar mais sobre autocinhecimento entendendo melhor meus valores e talentos com um foco em encontrar uma empresa que tenha os mesmo valores de evolução conjunta e confiança. Ja tenho algumas que estou de olho, espero aprender muito durante o processo seletivo mesmo se não for aceito de primeira!
 
+### O que faço em minhas horas vagas
+
+Tenho o hábito de reunir com alguns amigos durante o periodo da noite, para jogar, sempre fui uma pessoa que gosta de jogos multiplayer, até mesmo fora da época de internet, minha irmã que o diga haha, a gente jogava muitos jogos juntos [Zombies Ate My Neighbors](https://pt.wikipedia.org/wiki/Zombies_Ate_My_Neighbors), [Sunset Riders](https://pt.wikipedia.org/wiki/Sunset_Riders), etc...
+Atualmente junto com amigos no discord, para jogarmos jogos coop, entre muitos outros conversarmos sobre animes, um jogo que eu guardo até hoje no coração e na saudades é [Wildstar](https://en.wikipedia.org/wiki/WildStar) ele foi um action mmorpg, onde conheci muitos amigos que tenho contato até hoje, onde superamos dungeons que exigiam uma coordanação e colaboração geral muito grande.
 #
-### Experiências
+### Experiências Profissionais
 
 Trabalhei por alguns anos prestando suporte e manutenção de computadores, meus conhecimentos e habilidades de aprendizagem e colaboração como técnico me levaram para outra área de trabalho que era de projetista mecânico, analisando os ultimos 4 anos trabalhando como projetista, mesmo gostando muito da área, minha paixão por tecnológica ainda era maior, e juntamente com a vontade de ter uma expeciência com horarios mais flexiveis trabalhando home office, abrindo possibilidades de trabalhar de qualquer lugar, sem preocupação com deslocamento, então no final do ano de 2021 resolvi me desligar da parte de projetos mecânicos, e focar totalmente na área de desenvolvimento, começando minha nova jornada com dev, cursando a [trybe](https://www.betrybe.com/).
 
