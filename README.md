@@ -1,12 +1,18 @@
 # Bem vindo ao meu github!
 
 Olá! Meu nome é [Davíd Roggér](https://www.linkedin.com/in/davidrogger/), moro no interior de [São Paulo](https://pt.wikipedia.org/wiki/S%C3%A3o_Paulo), uma cidade chamada [Boituva](https://www.boituva.sp.gov.br/), estou iniciando profissionalmente na área com desenvolvimento web fullstack.
-## Sobre:
+### Por que virar dev
 
 Minha paixão por jogos acabou criando consequentemente uma relação com tecnologia, por gostar de reconhecer padrões entendendo melhor os objetivos e desafios para evoluir e conquistar aquela fase/projeto.
 
+### Metas
+
+Com a conclusão da minha meta de 2022 em iniciar uma línguagem, fortalecer minha lógica, e ver de perto se realmente essa é a área para mim, superando com muito prazer e felicidade todos desafios proposta pela [trybe](https://www.betrybe.com/) ao longo do curso.
+
+Minha meta esse ano, é de continuar estudando mais, e abrindo mais meus conhecimento seguindo os mesmos passos que segui no ano de 2022, estudar mais sobre autocinhecimento entendendo melhor meus valores e talentos com um foco em encontrar uma empresa que tenha os mesmo valores de evolução conjunta e confiança. Ja tenho algumas que estou de olho, espero aprender muito durante o processo seletivo mesmo se não for aceito de primeira!
+
 #
-## Experiências
+### Experiências
 
 Trabalhei por alguns anos prestando suporte e manutenção de computadores, meus conhecimentos e habilidades de aprendizagem e colaboração como técnico me levaram para outra área de trabalho que era de projetista mecânico, analisando os ultimos 4 anos trabalhando como projetista, mesmo gostando muito da área, minha paixão por tecnológica ainda era maior, e juntamente com a vontade de ter uma expeciência com horarios mais flexiveis trabalhando home office, abrindo possibilidades de trabalhar de qualquer lugar, sem preocupação com deslocamento, então no final do ano de 2021 resolvi me desligar da parte de projetos mecânicos, e focar totalmente na área de desenvolvimento, começando minha nova jornada com dev, cursando a [trybe](https://www.betrybe.com/).
 
@@ -140,6 +146,8 @@ Começando minha jornada como dev em novembro de 2021, foquei totalmente no cont
 </details>
 
 #
+
+###
 ### Linguagens e ferramentas 🛠
 
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
