@@ -108,7 +108,7 @@ Começando minha jornada como dev em novembro de 2021, foquei totalmente no cont
   </summary>
 
   #
-  lore
+  Aprendi sobre conteinerização usando Docker, e seus beneficios para garantir o funcionamento da aplicação em um ambiente de containers, foi o modulo mais longo e cansativo de todos modulos, por ter muito material teorico e conceitos, que parecia confusos no começo, mas se solificaram ao longo do modulo, aprendi a desenvolver um código para back-end, robusto, usando Arquitetura de software seguindo padrão MSC, limpo, escalável usando banco de dados e realizando testes automátizados.
   <details>
     <summary>
       <strong>
@@ -118,9 +118,18 @@ Começando minha jornada como dev em novembro de 2021, foquei totalmente no cont
 
   <div>
    <ol>
-    <li> Primeiro </li>
-    <li> Secundo </li>
-    <li> Terceiro </li>
+      <li><a href="">Docker Todo-List</li>
+      <li><a href="">All For One</li>
+      <li><a href="">One For All</li>
+      <li><a href="">Talker Manager</li>
+      <li><a href="">Store Manager</li>
+      <li><a href="">API de Blogs</li>
+      <li><a href="">Trybesmith</li>
+      <li><a href="">Trybers and Dragons</li>
+      <li><a href="">TFC - Trybe Futebol Clube</li>
+      <li><a href="">Commerce</li>
+      <li><a href="">Car Shop</li>
+      <li><a href="">App de Delivery</li>
    </ol>
    
   </div>
