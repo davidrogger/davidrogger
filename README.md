@@ -26,6 +26,39 @@ Começando minha jornada como dev em novembro de 2021, foquei totalmente no cont
 
 </details>
 
+<details>
+  <summary>
+    <strong>
+      Frontend
+    <strong>
+  </summary>
+
+  -
+
+</details>
+
+<details>
+  <summary>
+    <strong>
+      Backend
+    <strong>
+  </summary>
+
+  -
+
+</details>
+
+<details>
+  <summary>
+    <strong>
+      Ciências da Computação
+    <strong>
+  </summary>
+
+  -
+
+</details>
+
 #
 ### Linguagens e ferramentas 🛠
 
