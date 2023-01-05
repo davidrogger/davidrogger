@@ -43,11 +43,18 @@ Começando minha jornada como dev em novembro de 2021, foquei totalmente no cont
 
   <div>
    <ol>
-    <li> Primeiro </li>
-    <li> Secundo </li>
-    <li> Terceiro </li>
+    <li><a href="">Lessons Learned</li>
+    <li><a href="">Playground Functions</li>
+    <li><a href="">Arte Pixels</li>
+    <li><a href="">Lista de Tarefas</li>
+    <li><a href="">Meme Generator</li>
+    <li><a href="">Adivinhe a cor</li>
+    <li><a href="">Carta Misteriosa</li>
+    <li><a href="">Trybewarts</li>
+    <li><a href="">Testes Unitários</li>
+    <li><a href="">Zoo Functions</li>
+    <li><a href="">Carrinho de compras</li>
    </ol>
-   
   </div>
 
   
@@ -136,7 +143,7 @@ Começando minha jornada como dev em novembro de 2021, foquei totalmente no cont
 
   <div>
    <ol>
-    <li> <a href="https://github.com/davidrogger/trybe-project-job-insights">Job Insights</li>
+    <li><a href="https://github.com/davidrogger/trybe-project-job-insights">Job Insights</li>
     <li> <a href="https://github.com/davidrogger/trybe-project-inventory-report">Inventory Report</li>
     <li> <a href="https://github.com/davidrogger/trybe-project-tech-news">Tech News</li>
     <li> <a href="https://github.com/davidrogger/trybe-project-algorithms">Algorithms</li>
