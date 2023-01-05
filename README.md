@@ -19,44 +19,124 @@ Começando minha jornada como dev em novembro de 2021, foquei totalmente no cont
   <summary>
     <strong>
       Fundamentos
-    <strong>
+    </strong>
   </summary>
 
+  #
   Onde conheci o github e seu funcionamento, aprendi minha primeira linguagem, Javascript e aumentei o nível de lógica de programação, focando sempre em boas práticas, foi apresentando e executado o uso de testes como algo fundamental no dia a dia para desenvolver aplicações com mais qualidade.
+  <details>
+    <summary>
+      <strong>
+        Projetos de Fundamentos
+      </strong>
+    </summary>
 
+  <div>
+   <ol>
+    <li> Primeiro </li>
+    <li> Secundo </li>
+    <li> Terceiro </li>
+   </ol>
+   
+  </div>
+
+  
+  </details>
+
+  #
 </details>
 
 <details>
   <summary>
     <strong>
       Frontend
-    <strong>
+    </strong>
   </summary>
 
-  -
+  #
+  lore
+  <details>
+    <summary>
+      <strong>
+        Projetos de Frontend
+      </strong>
+    </summary>
 
+  <div>
+   <ol>
+    <li> Primeiro </li>
+    <li> Secundo </li>
+    <li> Terceiro </li>
+   </ol>
+   
+  </div>
+
+  
+  </details>
+
+  #
 </details>
 
 <details>
   <summary>
     <strong>
       Backend
-    <strong>
+    </strong>
   </summary>
 
-  -
+  #
+  lore
+  <details>
+    <summary>
+      <strong>
+        Projetos de Backend
+      </strong>
+    </summary>
 
+  <div>
+   <ol>
+    <li> Primeiro </li>
+    <li> Secundo </li>
+    <li> Terceiro </li>
+   </ol>
+   
+  </div>
+
+  
+  </details>
+
+  #
 </details>
 
 <details>
   <summary>
     <strong>
       Ciências da Computação
-    <strong>
+    </strong>
   </summary>
 
-  -
+  #
+  lore
+  <details>
+    <summary>
+      <strong>
+        Projetos de Ciências da Computação
+      </strong>
+    </summary>
 
+  <div>
+   <ol>
+    <li> Primeiro </li>
+    <li> Secundo </li>
+    <li> Terceiro </li>
+   </ol>
+   
+  </div>
+
+  
+  </details>
+
+  #
 </details>
 
 #
