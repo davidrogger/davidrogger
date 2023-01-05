@@ -136,9 +136,12 @@ Começando minha jornada como dev em novembro de 2021, foquei totalmente no cont
 
   <div>
    <ol>
-    <li> Primeiro </li>
-    <li> Secundo </li>
-    <li> Terceiro </li>
+    <li> <a href="https://github.com/davidrogger/trybe-project-job-insights">Job Insights</li>
+    <li> <a href="https://github.com/davidrogger/trybe-project-inventory-report">Inventory Report</li>
+    <li> <a href="https://github.com/davidrogger/trybe-project-tech-news">Tech News</li>
+    <li> <a href="https://github.com/davidrogger/trybe-project-algorithms">Algorithms</li>
+    <li> <a href="https://github.com/davidrogger/trybe-project-ting">TING - Trybe Is Not Google</li>
+    <li> <a href="https://github.com/davidrogger/trybe-project-restaurant-orders">Restaurant Orders</li>
    </ol>
    
   </div>
