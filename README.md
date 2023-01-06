@@ -9,7 +9,7 @@ Minha paixão por jogos acabou criando consequentemente uma relação com tecnol
 
 Com a conclusão da minha meta de 2022 em iniciar uma línguagem, fortalecer minha lógica, e ver de perto se realmente essa é a área para mim, superando com muito prazer e felicidade todos desafios proposta pela [trybe](https://www.betrybe.com/) ao longo do curso.
 
-Minha meta esse ano, é de continuar estudando mais, e aumentando mais meus conhecimento seguindo os mesmos passos que segui no ano de 2022, mantendo atualizado sobre boas práticas, código limpo, escalabilidade, complexidade de tempo/espaço, padrão de projetos e ter um foco maior em estudar autocinhecimento entendendo melhor meus valores e talentos com um foco em encontrar uma empresa que tenha os mesmo valores de evolução conjunta e confiança. Ja tenho algumas que estou de olho, espero aprender muito durante o processo seletivo mesmo se não for aceito de primeira!
+Minha meta esse ano, é de consolidar mais o habito de sempre estudar, aumentando mais meus conhecimento seguindo os mesmos passos que segui no ano de 2022, mantendo atualizado sobre boas práticas, código limpo, escalabilidade, complexidade de tempo/espaço, padrão de projetos e ter um foco maior em estudar autocinhecimento entendendo melhor meus valores e talentos com um foco em encontrar uma empresa que tenha os mesmo valores de evolução conjunta e confiança. Ja tenho algumas que estou de olho, espero aprender muito durante o processo seletivo mesmo se não for aceito de primeira!
 
 ### O que faço em minhas horas vagas
 
