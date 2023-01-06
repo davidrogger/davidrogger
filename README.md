@@ -34,32 +34,8 @@ Começando minha jornada como dev em novembro de 2021, foquei totalmente no cont
 
   #
   Onde conheci o github e seu funcionamento, aprendi minha primeira linguagem, Javascript e aumentei o nível de lógica de programação, focando sempre em boas práticas, foi apresentando e executado o uso de testes como algo fundamental no dia a dia para desenvolver aplicações com mais qualidade.
-  <details>
-    <summary>
-      <strong>
-        Projetos de Fundamentos
-      </strong>
-    </summary>
-
-  <div>
-   <ol>
-    <li><a href="">Lessons Learned</li>
-    <li><a href="">Playground Functions</li>
-    <li><a href="">Arte Pixels</li>
-    <li><a href="">Lista de Tarefas</li>
-    <li><a href="">Meme Generator</li>
-    <li><a href="">Adivinhe a cor</li>
-    <li><a href="">Carta Misteriosa</li>
-    <li><a href="">Trybewarts</li>
-    <li><a href="">Testes Unitários</li>
-    <li><a href="">Zoo Functions</li>
-    <li><a href="">Carrinho de compras</li>
-   </ol>
-  </div>
-
   
-  </details>
-
+  [Detalhes dos projetos de Fundamentos](https://github.com/davidrogger/trybe-fundamentos)
   #
 </details>
 
