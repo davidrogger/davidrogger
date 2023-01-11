@@ -47,7 +47,7 @@ Começando minha jornada como dev em novembro de 2021, foquei totalmente no cont
   </summary>
 
   #
-  Esse modulo foi focado em aprender o funcionamento da biblioteca React.js, por ser muito reconhecida e usada no mercado de trabalho, aprendi a utilizar ela usando classes inicialmente para ser apto há realizar manutenção caso me depare com algum legado futuramente e por ser mais complicada comparando com sua versão funcional. Durante esse bloco também aprende conceitos básicos e noções de uso do Agile usando Scrum e Kanban nos projetos em grupo.
+  Esse modulo foi focado em aprender o funcionamento da biblioteca React.js, por ser muito reconhecida e usada no mercado de trabalho, aprendi a utilizar ela usando classes inicialmente para ser apto há realizar manutenção caso me depare com algum legado futuramente e por ser mais complicada comparando com sua versão funcional. Durante esse modulo foi abordado conceitos básicos e noções de uso do Agile usando Scrum e Kanban nos projetos em grupo.
   <details>
     <summary>
       <strong>
