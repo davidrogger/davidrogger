@@ -42,7 +42,7 @@ Começando minha jornada como dev em novembro de 2021, foquei totalmente no cont
 <details>
   <summary>
     <strong>
-      Frontend
+      Front-end
     </strong>
   </summary>
 
@@ -51,7 +51,7 @@ Começando minha jornada como dev em novembro de 2021, foquei totalmente no cont
   <details>
     <summary>
       <strong>
-        Projetos de Frontend
+        Projetos de Front-end
       </strong>
     </summary>
 
@@ -88,7 +88,7 @@ Começando minha jornada como dev em novembro de 2021, foquei totalmente no cont
   <details>
     <summary>
       <strong>
-        Projetos de Backend
+        Projetos de Back-end
       </strong>
     </summary>
 
@@ -175,7 +175,7 @@ Começando minha jornada como dev em novembro de 2021, foquei totalmente no cont
 ![Mocha](https://img.shields.io/badge/-Mocha-896446?style=flat-square&logo=mocha&logoColor=ffffff)
 ![Chai](https://img.shields.io/badge/-Chai-a40802?style=flat-square&logo=chai)
 ![Sinon](https://img.shields.io/badge/-Sinon-a0d3a4?style=flat-square&logo=sinon)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
+![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![JWToken](https://img.shields.io/badge/-JWToken-000?style=flat-square&logo=jsonwebtokens&logoColor=d63aff)
 ![Python](https://img.shields.io/badge/-Python-%23F7DF1C?style=flat-square&logo=python)
 ![Pytest](https://img.shields.io/badge/-Pytest-fff?style=flat-square&logo=pytest)
