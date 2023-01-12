@@ -51,18 +51,15 @@ Começando minha jornada como dev em novembro de 2021, foquei totalmente no cont
   
   [Detalhes dos projetos de Front-end](https://github.com/davidrogger/trybe-frontend)
    
-  </div>
-
-  
+  </div>  
   </details>
 
-  #
 </details>
 
 <details>
   <summary>
     <strong>
-      Backend
+      Back-end
     </strong>
   </summary>
 
