@@ -48,25 +48,8 @@ Começando minha jornada como dev em novembro de 2021, foquei totalmente no cont
 
   #
   Esse modulo foi focado em aprender o funcionamento da biblioteca React.js, por ser muito reconhecida e usada no mercado de trabalho, aprendi a utilizar ela usando classes inicialmente para ser apto há realizar manutenção caso me depare com algum legado futuramente e por ser mais complicada comparando com sua versão funcional. Durante esse modulo foi abordado conceitos básicos e noções de uso do Agile usando Scrum e Kanban nos projetos em grupo.
-  <details>
-    <summary>
-      <strong>
-        Projetos de Front-end
-      </strong>
-    </summary>
-
-  <div>
-   <ol>
-    <li><a href="">Solar System</li>
-    <li><a href="">Tryunfo</li>
-    <li><a href="">TrybeTunes</li>
-    <li><a href="">Front-end Online Store</li>
-    <li><a href="">Testes em React</li>
-    <li><a href="">Trybe Wallet</li>
-    <li><a href="">Jogo de Trivia</li>
-    <li><a href="">StarWars Datatable com Conext API e Hooks</li>
-    <li><a href="">App de Receitas</li>
-   </ol>
+  
+  [Detalhes dos projetos de Front-end](https://github.com/davidrogger/trybe-frontend)
    
   </div>
 
