@@ -163,12 +163,10 @@ Começando minha jornada como dev em novembro de 2021, foquei totalmente no cont
 
 
 <div align="center">
-  <a href="https://github.com/davidrogger">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidrogger&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidrogger&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidrogger&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=davidrogger&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davidrogger&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davidrogger&theme=github_dark">
 </div>
 <hr>
 <h3>Contato:</h3>
