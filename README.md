@@ -66,14 +66,33 @@ Começando minha jornada como dev em novembro de 2021, foquei totalmente no cont
 
   #
   Aprendi sobre conteinerização usando Docker, e seus beneficios para garantir o funcionamento da aplicação em um ambiente de containers, foi o modulo mais longo e cansativo de todos modulos, por ter muito material teorico e conceitos, que pareciam muito confusos no começo, aprendi a desenvolver um código para back-end, robusto, usando Arquitetura de software seguindo padrão MSC, limpo, escalável usando banco de dados e realizando testes automátizados.
+
+  [Detalhes dos projetos de Back-end](https://github.com/davidrogger/trybe-backend)
+
   <details>
     <summary>
       <strong>
         Projetos de Back-end
       </strong>
     </summary>
+  <div>
+   <ol>
+      <li><a href="">Docker Todo-List</li>
+      <li><a href="">All For One</li>
+      <li><a href="">One For All</li>
+      <li><a href="">Talker Manager</li>
+      <li><a href="">Store Manager</li>
+      <li><a href="">API de Blogs</li>
+      <li><a href="">Trybesmith</li>
+      <li><a href="">Trybers and Dragons</li>
+      <li><a href="">TFC - Trybe Futebol Clube</li>
+      <li><a href="">Commerce</li>
+      <li><a href="">Car Shop</li>
+      <li><a href="">App de Delivery</li>
+   </ol>
+   
+  </div>
 
-  [Detalhes dos projetos de Back-end](https://github.com/davidrogger/trybe-backend)
   
   </details>
 
@@ -89,14 +108,15 @@ Começando minha jornada como dev em novembro de 2021, foquei totalmente no cont
 
   #
   Foi iniciada uma nova linguagem, Python, padrões de projetos, raspagem de dados, complexidade de tempo e espaço com algoritmos e estrutura de dados, com alocamento de memória, funcionamento de pilhas, filas, conjuntos entre muitas outros conceitos e padrões.
+
+  [Detalhes dos projetos de Ciência da Computação](https://github.com/davidrogger/trybe-cs)
+
   <details>
     <summary>
       <strong>
         Projetos de Ciências da Computação
       </strong>
     </summary>
-
-  [Detalhes dos projetos de Ciência da Computação](https://github.com/davidrogger/trybe-cs)
 
   <div>
    <ol>
