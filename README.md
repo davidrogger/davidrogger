@@ -42,7 +42,7 @@ Começando minha jornada como dev em novembro de 2021, foquei totalmente no cont
 <details>
   <summary>
     <strong>
-      Front-end
+      :construction: Front-end
     </strong>
   </summary>
 
@@ -59,7 +59,7 @@ Começando minha jornada como dev em novembro de 2021, foquei totalmente no cont
 <details>
   <summary>
     <strong>
-      Back-end
+      :construction: Back-end
     </strong>
   </summary>
 
@@ -99,7 +99,7 @@ Começando minha jornada como dev em novembro de 2021, foquei totalmente no cont
 <details>
   <summary>
     <strong>
-      Ciências da Computação
+      :construction: Ciências da Computação
     </strong>
   </summary>
 
