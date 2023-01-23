@@ -3,22 +3,23 @@
 Olá! Meu nome é [Davíd Roggér](https://www.linkedin.com/in/davidrogger/), moro no interior de [São Paulo](https://pt.wikipedia.org/wiki/S%C3%A3o_Paulo), uma cidade chamada [Boituva](https://www.boituva.sp.gov.br/), estou iniciando profissionalmente na área com desenvolvimento web fullstack.
 ### Por que virar dev
 
-Minha paixão por jogos acabou criando consequentemente uma relação com tecnologia, por gostar de reconhecer padrões entendendo melhor os objetivos e desafios para evoluir e conquistar aquela fase/projeto.
+Minha paixão por jogos acabou criando consequentemente uma relação com tecnologia, inicialmente era aquela vontade de participar ou criar algum jogo, mas depois de um tempo estudando percebi que não era apenas isso mas por gostar de reconhecer padrões entendendo melhor os objetivos e desafios para evoluir.
 
 ### Metas
-
-Com a conclusão da minha meta de 2022 em iniciar uma línguagem, fortalecer minha lógica, e ver de perto se realmente essa é a área para mim, superando com muito prazer e felicidade todos desafios proposta pela [trybe](https://www.betrybe.com/) ao longo do curso.
 
 Minha meta esse ano, é de consolidar mais o habito de sempre estudar, aumentando mais meus conhecimento seguindo os mesmos passos que segui no ano de 2022, mantendo atualizado sobre boas práticas, código limpo, escalabilidade, complexidade de tempo/espaço, padrão de projetos e ter um foco maior em estudar autocinhecimento entendendo melhor meus valores e talentos com um foco em encontrar uma empresa que tenha os mesmo valores de evolução conjunta e confiança. Ja tenho algumas que estou de olho, espero aprender muito durante o processo seletivo mesmo se não for aceito de primeira!
 
 ### O que faço em minhas horas vagas
 
 Normalmente reuno com amigos para jogar ou apenas bater papo no [discord](https://en.wikipedia.org/wiki/Discord), sempre fui uma pessoa que gosta de jogos multiplayer, até mesmo fora da época de internet, minha irmã que o diga haha, a gente jogava muitos jogos juntos [Zombies Ate My Neighbors](https://pt.wikipedia.org/wiki/Zombies_Ate_My_Neighbors), [Sunset Riders](https://pt.wikipedia.org/wiki/Sunset_Riders), entre muitos outros...
-Com poder da internet e evolução dos jogos sempre jogo algum [MMORPG](https://pt.wikipedia.org/wiki/MMORPG), [Ragnarok](https://pt.wikipedia.org/wiki/Ragnar%C3%B6k_Online), [RF Online](https://pt.wikipedia.org/wiki/Rising_Force_Online), [WildStar](https://en.wikipedia.org/wiki/WildStar), [Black Desert](https://en.wikipedia.org/wiki/Black_Desert_Online), [Lost Ark](https://en.wikipedia.org/wiki/Lost_Ark_(video_game)) agora estou com alguns amigos jogando alguns survivers, como [Valheim](https://store.steampowered.com/app/892970/Valheim/), [V Rising](https://store.steampowered.com/app/1604030/V_Rising/) entre outros.
+Com o poder da internet e evolução dos jogos, sempre jogo o gênero [MMORPG](https://pt.wikipedia.org/wiki/MMORPG), ou jogos COOP.
+Atualmente estou jogando com o Gamepass, [Monster Hunter Rise](https://www.xbox.com/en-US/games/monster-hunter-rise).
+E também eu adoro correr! Tentando recuperar meus 10km, atualmente bati meus 7km de corrida logo mais devo recuperar o folego de antigamente!
 #
 ### Experiências Profissionais
 
-Trabalhei por alguns anos prestando suporte e manutenção de computadores, meus conhecimentos e habilidades de aprendizagem e colaboração como técnico me levaram para outra área de trabalho que era de projetista mecânico, analisando os ultimos 4 anos trabalhando como projetista, mesmo gostando muito da área, minha paixão por tecnológica ainda era maior, e juntamente com a vontade de ter uma expeciência com horarios mais flexiveis trabalhando home office, abrindo possibilidades de trabalhar de qualquer lugar, sem preocupação com deslocamento, então no final do ano de 2021 resolvi me desligar da parte de projetos mecânicos, e focar totalmente na área de desenvolvimento, começando minha nova jornada com dev, cursando a [trybe](https://www.betrybe.com/).
+Trabalhei por alguns anos prestando suporte e manutenção de computadores, onde realizava um atendimento direto ao publico, entendendo o defeito apresentado, e procurando a solução para resolução, com meus conhecimentos e habilidades de aprendizagem e colaboração como técnico me levaram para outra área de trabalho que era de projetista mecânico, onde desenvolvi uma habilidade mais analítica por ter que me atentar a detalhes para criar soluções de montagem mecânicas, eu desenhava armários, gabinetes, mobiliários conforme a soluções possiveis que a empresa podia realizar.
+Analisando os ultimos 4 anos trabalhando como projetista, mesmo gostando muito da área, minha paixão por tecnológica ainda era maior, e juntamente com a vontade de ter uma expeciência com horarios mais flexiveis trabalhando home office, abrindo possibilidades de trabalhar de qualquer lugar, sem preocupação com deslocamento, então no final do ano de 2021 resolvi me desligar da parte de projetos mecânicos, e focar totalmente na área de desenvolvimento, começando minha nova jornada como dev, cursando a [trybe](https://www.betrybe.com/).
 
 #
 ### Iniciando como dev
@@ -64,7 +65,7 @@ Começando minha jornada como dev em novembro de 2021, foquei totalmente no cont
   </summary>
 
   #
-  Aprendi sobre conteinerização usando Docker, e seus beneficios para garantir o funcionamento da aplicação em um ambiente de containers, foi o modulo mais longo e cansativo de todos modulos, por ter muito material teorico e conceitos, que parecia confusos no começo, mas se solificaram ao longo do modulo, aprendi a desenvolver um código para back-end, robusto, usando Arquitetura de software seguindo padrão MSC, limpo, escalável usando banco de dados e realizando testes automátizados.
+  Aprendi sobre conteinerização usando Docker, e seus beneficios para garantir o funcionamento da aplicação em um ambiente de containers, foi o modulo mais longo e cansativo de todos modulos, por ter muito material teorico e conceitos, que pareciam muito confusos no começo, aprendi a desenvolver um código para back-end, robusto, usando Arquitetura de software seguindo padrão MSC, limpo, escalável usando banco de dados e realizando testes automátizados.
   <details>
     <summary>
       <strong>
@@ -72,24 +73,7 @@ Começando minha jornada como dev em novembro de 2021, foquei totalmente no cont
       </strong>
     </summary>
 
-  <div>
-   <ol>
-      <li><a href="">Docker Todo-List</li>
-      <li><a href="">All For One</li>
-      <li><a href="">One For All</li>
-      <li><a href="">Talker Manager</li>
-      <li><a href="">Store Manager</li>
-      <li><a href="">API de Blogs</li>
-      <li><a href="">Trybesmith</li>
-      <li><a href="">Trybers and Dragons</li>
-      <li><a href="">TFC - Trybe Futebol Clube</li>
-      <li><a href="">Commerce</li>
-      <li><a href="">Car Shop</li>
-      <li><a href="">App de Delivery</li>
-   </ol>
-   
-  </div>
-
+  [Detalhes dos projetos de Back-end](https://github.com/davidrogger/trybe-backend)
   
   </details>
 
@@ -111,6 +95,8 @@ Começando minha jornada como dev em novembro de 2021, foquei totalmente no cont
         Projetos de Ciências da Computação
       </strong>
     </summary>
+
+  [Detalhes dos projetos de Ciência da Computação](https://github.com/davidrogger/trybe-cs)
 
   <div>
    <ol>
