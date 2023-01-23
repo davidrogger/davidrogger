@@ -185,3 +185,9 @@ Começando minha jornada como dev em novembro de 2021, foquei totalmente no cont
   <img align="right" src="https://img.shields.io/github/followers/davidrogger?label=Follow&style=social" />
 </h1>
 </div>
+
+#
+
+<div align="right">
+  <img src="https://badgen.net/badge/last%20update/23-01-2023/blue">
+</div>
