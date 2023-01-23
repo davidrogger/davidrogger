@@ -28,7 +28,7 @@ Começando minha jornada como dev em novembro de 2021, foquei totalmente no cont
 <details>
   <summary>
     <strong>
-      Fundamentos
+      :rocket: Fundamentos
     </strong>
   </summary>
 
