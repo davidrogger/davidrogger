@@ -1,6 +1,6 @@
 # Bem vindo ao meu github! :wave:
 
-Olá! Meu nome é [Davíd Roggér](https://www.linkedin.com/in/davidrogger/):bowtie:, moro no interior de [São Paulo](https://pt.wikipedia.org/wiki/S%C3%A3o_Paulo), uma cidade chamada [Boituva](https://www.boituva.sp.gov.br/), estou iniciando profissionalmente na área com desenvolvimento web fullstack.
+Olá! Meu nome é [Davíd Roggér](https://www.linkedin.com/in/davidrogger/):bowtie:, moro no interior de [São Paulo](https://pt.wikipedia.org/wiki/S%C3%A3o_Paulo), uma cidade chamada [Boituva](https://www.boituva.sp.gov.br/), acabei de me formar na [trybe](https://www.betrybe.com/) e estou iniciando profissionalmente na área com desenvolvimento web fullstack.
 ### Por que virar dev :computer:
 
 Minha paixão por jogos acabou criando consequentemente uma relação com tecnologia, inicialmente era aquela vontade de participar ou criar algum jogo, mas depois de um tempo estudando percebi que não era apenas isso mas por gostar de reconhecer padrões entendendo melhor os objetivos e desafios para evoluir.
