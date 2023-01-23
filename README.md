@@ -25,7 +25,7 @@ Analisando os ultimos 4 anos trabalhando como projetista, mesmo gostando muito d
 #
 ### Iniciando como dev :rocket:
 
-Começando minha jornada como dev em novembro de 2021, foquei totalmente no contéudo oferecido pela trybe, onde passei por 4 módulos.
+Começando minha jornada como dev em novembro de 2021, foquei totalmente no contéudo oferecido pela trybe, onde passei por 4 módulos. Estou aos poucos migrando cada projeto realizado na trybe, na seção de frontend você encontra alguns projetos desenvolvidos com react, prontos para acesso online!
 
 <details>
   <summary>
