@@ -20,12 +20,12 @@ Minha meta esse ano, é de consolidar mais o habito de sempre estudar, aumentand
 
 - Suporte TI: Trabalhei por alguns anos prestando suporte e manutenção de computadores, onde realizava um atendimento direto ao publico, entendendo o defeito apresentado, e procurando a solução para resolução, com meus conhecimentos e habilidades de aprendizagem e colaboração como técnico me levaram para outra área de trabalho que era de projetista mecânico.
 - Projetista: Onde desenvolvi uma habilidade mais analítica por ter que me atentar a detalhes para criar soluções de montagem mecânicas, eu desenhava armários, gabinetes, mobiliários conforme os padrões de ferramental da empresa.
-Analisando os ultimos 4 anos trabalhando como projetista, mesmo gostando muito da área, minha paixão por tecnológica ainda era maior, e juntamente com a vontade de ter uma expeciência com horarios mais flexiveis trabalhando home office, abrindo possibilidades de trabalhar de qualquer lugar, sem preocupação com deslocamento, então no final do ano de 2021 resolvi me desligar da parte de projetos mecânicos, e focar totalmente na área de desenvolvimento, começando minha nova jornada como dev, cursando a [trybe](https://www.betrybe.com/).
 
 #
 ### Iniciando como dev :rocket:
 
-Começando minha jornada como dev em novembro de 2021, foquei totalmente no contéudo oferecido pela trybe, onde passei por 4 módulos. Estou aos poucos migrando cada projeto realizado na trybe, na seção de frontend você encontra alguns projetos desenvolvidos com react, prontos para acesso online!
+Analisando os ultimos 4 anos trabalhando como projetista, mesmo gostando muito da área, minha paixão por tecnológica ainda era maior e juntamente com a vontade de ter uma expeciência com horarios mais flexiveis trabalhando home office, abrindo possibilidades de trabalhar de qualquer lugar, sem preocupação com deslocamento, então no final do ano de 2021 resolvi me desligar da parte de projetos mecânicos, e focar totalmente na área de desenvolvimento, começando minha nova jornada como dev, cursando a [trybe](https://www.betrybe.com/).
+Começando minha jornada foquei totalmente no contéudo oferecido pela trybe, onde passei por 4 módulos. Estou aos poucos migrando cada projeto realizado na trybe, na seção de frontend você encontra alguns projetos desenvolvidos com react, prontos para acesso online!
 
 <details>
   <summary>
