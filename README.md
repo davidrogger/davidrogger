@@ -44,7 +44,7 @@ Começando minha jornada foquei totalmente no contéudo oferecido pela trybe, on
 <details>
   <summary>
     <strong>
-      :construction: Front-end
+      :green_book: Frontend
     </strong>
   </summary>
 
@@ -189,5 +189,5 @@ Começando minha jornada foquei totalmente no contéudo oferecido pela trybe, on
 #
 
 <div align="right">
-  <img src="https://badgen.net/badge/last%20update/23-01-2023/blue">
+  <img src="https://badgen.net/badge/last%20update/07-02-2023/blue">
 </div>
