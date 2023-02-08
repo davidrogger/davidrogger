@@ -69,28 +69,6 @@ Começando minha jornada foquei totalmente no contéudo oferecido pela trybe, on
   Aprendi sobre conteinerização usando Docker, e seus beneficios para garantir o funcionamento da aplicação em um ambiente de containers, foi o modulo mais longo e cansativo de todos modulos, por ter muito material teorico e conceitos, que pareciam muito confusos no começo, aprendi a desenvolver um código para back-end, robusto, usando Arquitetura de software seguindo padrão MSC, limpo, escalável usando banco de dados e realizando testes automátizados.
 
   [Detalhes dos projetos de Back-end](https://github.com/davidrogger/trybe-backend)
-
-  <details>
-    <summary>
-      <strong>
-        Projetos de Back-end
-      </strong>
-    </summary>
-  <div>
-   <ol>
-      <li><a href="">Docker Todo-List</li>
-      <li><a href="">All For One</li>
-      <li><a href="">One For All</li>
-      <li><a href="">Talker Manager</li>
-      <li><a href="">Store Manager</li>
-      <li><a href="">API de Blogs</li>
-      <li><a href="">Trybesmith</li>
-      <li><a href="">Trybers and Dragons</li>
-      <li><a href="">TFC - Trybe Futebol Clube</li>
-      <li><a href="">Commerce</li>
-      <li><a href="">Car Shop</li>
-      <li><a href="">App de Delivery</li>
-   </ol>
    
   </div>
 
@@ -189,5 +167,5 @@ Começando minha jornada foquei totalmente no contéudo oferecido pela trybe, on
 #
 
 <div align="right">
-  <img src="https://badgen.net/badge/last%20update/07-02-2023/blue">
+  <img src="https://badgen.net/badge/last%20update/08-02-2023/blue">
 </div>
