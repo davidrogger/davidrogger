@@ -1,40 +1,25 @@
 # Bem vindo ao meu github! :wave:
 
-Olá! Meu nome é [Davíd Roggér](https://www.linkedin.com/in/davidrogger/):bowtie:, moro no interior de [São Paulo](https://pt.wikipedia.org/wiki/S%C3%A3o_Paulo), uma cidade chamada [Boituva](https://www.boituva.sp.gov.br/), acabei de me formar na [trybe](https://www.betrybe.com/) e estou iniciando profissionalmente na área com desenvolvimento web fullstack.
+Olá! Meu nome é [Davíd Roggér](https://www.linkedin.com/in/davidrogger/):bowtie:, moro no interior de [São Paulo](https://pt.wikipedia.org/wiki/S%C3%A3o_Paulo), uma cidade chamada [Boituva](https://www.boituva.sp.gov.br/), conhecida por ser a capital do paraquedismo!.
+Conclui meu estudo na [trybe](https://www.betrybe.com/) em janeiro e estou iniciando profissionalmente na área com desenvolvimento web fullstack.
 ### Por que virar dev :computer:
 
-Minha paixão por jogos acabou criando consequentemente uma relação com tecnologia, inicialmente era aquela vontade de participar ou criar algum jogo, mas depois de um tempo estudando percebi que não era apenas isso mas por gostar de reconhecer padrões entendendo melhor os objetivos e desafios para evoluir.
+Minha paixão por jogos acabou criando consequentemente uma relação com tecnologia, inicialmente era aquela vontade de participar da criação de algum jogo, mas depois de um tempo estudando percebi que não era apenas isso mas por gostar de reconhecer padrões entendendo melhor os objetivos e desafios e estudar para evoluir.
 
-### Metas :dart:
-
-Minha meta esse ano, é de consolidar mais o habito de sempre estudar, aumentando mais meus conhecimento seguindo os mesmos passos que segui no ano de 2022, mantendo atualizado sobre boas práticas, código limpo, escalabilidade, complexidade de tempo/espaço, padrão de projetos e ter um foco maior em estudar autocinhecimento entendendo melhor meus valores e talentos com um foco em encontrar uma empresa que tenha os mesmo valores de evolução conjunta e confiança. Ja tenho algumas que estou de olho, espero aprender muito durante o processo seletivo mesmo se não for aceito de primeira!
-
-### O que faço em minhas horas vagas :video_game:
-
-- Normalmente reuno com amigos para jogar ou apenas bater papo no [discord](https://en.wikipedia.org/wiki/Discord), sempre fui uma pessoa que gosta de jogos multiplayer, até mesmo fora da época de internet, minha irmã que o diga haha, a gente jogava muitos jogos juntos [Zombies Ate My Neighbors](https://pt.wikipedia.org/wiki/Zombies_Ate_My_Neighbors), [Sunset Riders](https://pt.wikipedia.org/wiki/Sunset_Riders), entre muitos outros...
-- Com o poder da internet e evolução dos jogos, sempre jogo o gênero [MMORPG](https://pt.wikipedia.org/wiki/MMORPG), ou jogos COOP.
-- Atualmente estou jogando com o Gamepass, [Monster Hunter Rise](https://www.xbox.com/en-US/games/monster-hunter-rise).
-- E também eu adoro correr! Tentando recuperar meus 10km, atualmente bati meus 7km de corrida logo mais devo recuperar o folego de antigamente!
-#
-### Experiências Profissionais :wrench:
-
-- Suporte TI: Trabalhei por alguns anos prestando suporte e manutenção de computadores, onde realizava um atendimento direto ao publico, entendendo o defeito apresentado, e procurando a solução para resolução, com meus conhecimentos e habilidades de aprendizagem e colaboração como técnico me levaram para outra área de trabalho que era de projetista mecânico.
-- Projetista: Onde desenvolvi uma habilidade mais analítica por ter que me atentar a detalhes para criar soluções de montagem mecânicas, eu desenhava armários, gabinetes, mobiliários conforme os padrões de ferramental da empresa.
-
-#
 ### Iniciando como dev :rocket:
 
-Analisando os ultimos 4 anos trabalhando como projetista, mesmo gostando muito da área, minha paixão por tecnológica ainda era maior e juntamente com a vontade de ter uma expeciência com horarios mais flexiveis trabalhando home office, abrindo possibilidades de trabalhar de qualquer lugar, sem preocupação com deslocamento, então no final do ano de 2021 resolvi me desligar da parte de projetos mecânicos, e focar totalmente na área de desenvolvimento, começando minha nova jornada como dev, cursando a [trybe](https://www.betrybe.com/).
-Começando minha jornada foquei totalmente no contéudo oferecido pela trybe, onde passei por 4 módulos. Estou aos poucos migrando cada projeto realizado na trybe, na seção de frontend você encontra alguns projetos desenvolvidos com react, prontos para acesso online!
+Analisando os últimos 4 anos trabalhando como projetista, mesmo gostando muito da área, minha paixão por tecnológica ainda era maior somando a vontade de ter uma experiência com horários mais flexíveis trabalhando home office, abrindo possibilidades de trabalhar de qualquer lugar, sem preocupação com deslocamento, então no final do ano de 2021 resolvi me desligar da parte de projetos mecânicos, e focar totalmente na área de desenvolvimento, começando minha nova jornada como dev, cursando a [trybe](https://www.betrybe.com/).
+Começando minha jornada foquei totalmente no conteúdo oferecido pela trybe, onde passei por 4 módulos. Estou aos poucos migrando cada projeto realizado na trybe, na seção de frontend você encontra alguns projetos desenvolvidos com react, prontos para acesso online!
 
 <details>
   <summary>
     <strong>
-      :rocket: Fundamentos
+      :green_book: Fundamentos
     </strong>
   </summary>
 
   #
+
   Onde conheci o github e seu funcionamento, aprendi minha primeira linguagem, Javascript e aumentei o nível de lógica de programação, focando sempre em boas práticas, foi apresentando e executado o uso de testes como algo fundamental no dia a dia para desenvolver aplicações com mais qualidade.
   
   [Detalhes dos projetos de Fundamentos](https://github.com/davidrogger/trybe-fundamentos)
@@ -44,14 +29,14 @@ Começando minha jornada foquei totalmente no contéudo oferecido pela trybe, on
 <details>
   <summary>
     <strong>
-      :green_book: Frontend
+      :orange_book: Frontend
     </strong>
   </summary>
 
   #
-  Esse modulo foi focado em aprender o funcionamento da biblioteca React.js, por ser muito reconhecida e usada no mercado de trabalho, aprendi a utilizar ela usando classes inicialmente para ser apto há realizar manutenção caso me depare com algum legado futuramente e por ser mais complicada comparando com sua versão funcional. Durante esse modulo foi abordado conceitos básicos e noções de uso do Agile usando Scrum e Kanban nos projetos em grupo.
+  Esse modulo foi focado em aprender o funcionamento da biblioteca React.js, por ser muito reconhecida e usada no mercado de trabalho, aprendi a utilizar ela usando classes inicialmente para ser apto há realizar manutenção caso me depare com algum legado futuramente e por ser mais complicada comparando com sua versão funcional. Durante esse módulo foi abordado conceitos básicos e noções de uso do Agile usando Scrum e Kanban nos projetos em grupo.
   
-  [Detalhes dos projetos de Front-end](https://github.com/davidrogger/trybe-frontend)
+  [Detalhes dos projetos de Frontend](https://github.com/davidrogger/trybe-frontend)
    
   </div>  
   </details>
@@ -61,19 +46,16 @@ Começando minha jornada foquei totalmente no contéudo oferecido pela trybe, on
 <details>
   <summary>
     <strong>
-      :construction: Back-end
+      :blue_book: Backend
     </strong>
   </summary>
 
   #
-  Aprendi sobre conteinerização usando Docker, e seus beneficios para garantir o funcionamento da aplicação em um ambiente de containers, foi o modulo mais longo e cansativo de todos modulos, por ter muito material teorico e conceitos, que pareciam muito confusos no começo, aprendi a desenvolver um código para back-end, robusto, usando Arquitetura de software seguindo padrão MSC, limpo, escalável usando banco de dados e realizando testes automátizados.
+  Conteinerização usando Docker, e seus benefícios para garantir o funcionamento da aplicação em um ambiente de contêineres, foi o modulo mais longo e cansativo, por ter muito material teórico e conceitos, que pareciam muito confusos no começo, aprendi a desenvolver um código para backend, robusto, usando Arquitetura de software seguindo padrão MSC, limpo, escalável usando banco de dados e realizando testes automatizados.
 
   [Detalhes dos projetos de Back-end](https://github.com/davidrogger/trybe-backend)
    
   </div>
-
-  
-  </details>
 
   #
 </details>
@@ -86,7 +68,7 @@ Começando minha jornada foquei totalmente no contéudo oferecido pela trybe, on
   </summary>
 
   #
-  Foi iniciada uma nova linguagem, Python, padrões de projetos, raspagem de dados, complexidade de tempo e espaço com algoritmos e estrutura de dados, com alocamento de memória, funcionamento de pilhas, filas, conjuntos entre muitas outros conceitos e padrões.
+  Iniciada uma nova linguagem, Python, padrões de projetos, raspagem de dados, complexidade de tempo e espaço com algoritmos e estrutura de dados, com alocamento de memória, funcionamento de pilhas, filas, conjuntos entre muitos outros conceitos e padrões.
 
   [Detalhes dos projetos de Ciência da Computação](https://github.com/davidrogger/trybe-cs)
 
@@ -99,12 +81,12 @@ Começando minha jornada foquei totalmente no contéudo oferecido pela trybe, on
 
   <div>
    <ol>
-    <li><a href="https://github.com/davidrogger/trybe-project-job-insights">Job Insights</li>
-    <li> <a href="https://github.com/davidrogger/trybe-project-inventory-report">Inventory Report</li>
-    <li> <a href="https://github.com/davidrogger/trybe-project-tech-news">Tech News</li>
-    <li> <a href="https://github.com/davidrogger/trybe-project-algorithms">Algorithms</li>
-    <li> <a href="https://github.com/davidrogger/trybe-project-ting">TING - Trybe Is Not Google</li>
-    <li> <a href="https://github.com/davidrogger/trybe-project-restaurant-orders">Restaurant Orders</li>
+    <li><a href="https://github.com/davidrogger/trybe-project-job-insights">Job Insights </a> </li>
+    <li> <a href="https://github.com/davidrogger/trybe-project-inventory-report">Inventory Report </a></li>
+    <li> <a href="https://github.com/davidrogger/trybe-project-tech-news">Tech News </a></li>
+    <li> <a href="https://github.com/davidrogger/trybe-project-algorithms">Algorithms </a></li>
+    <li> <a href="https://github.com/davidrogger/trybe-project-ting">TING - Trybe Is Not Google </a></li>
+    <li> <a href="https://github.com/davidrogger/trybe-project-restaurant-orders">Restaurant Orders </a></li>
    </ol>
    
   </div>
@@ -112,8 +94,22 @@ Começando minha jornada foquei totalmente no contéudo oferecido pela trybe, on
   
   </details>
 
-  #
 </details>
+
+#
+### Experiências Profissionais :wrench:
+
+- Suporte TI: Trabalhei por alguns anos prestando suporte e manutenção de computadores, onde realizava um atendimento direto ao público, entendendo o defeito apresentado, e procurando a solução para resolução, com meus conhecimentos e habilidades de aprendizagem e colaboração como técnico me levaram para outra área de trabalho que era de projetista mecânico.
+- Projetista: Onde desenvolvi uma habilidade mais analítica por ter que me atentar a detalhes para criar soluções de montagem mecânicas, eu desenhava armários, gabinetes, mobiliários conforme os padrões de ferramental da empresa.
+
+#
+
+### Horas vagas :video_game:
+
+- Normalmente reúno com amigos para jogar ou apenas conversar no [discord](https://en.wikipedia.org/wiki/Discord), sempre fui uma pessoa que gosta de jogos multiplayer, até mesmo fora da época de internet, minha irmã que o diga haha, a gente jogava muitos jogos juntos [Zombies Ate My Neighbors](https://pt.wikipedia.org/wiki/Zombies_Ate_My_Neighbors), [Sunset Riders](https://pt.wikipedia.org/wiki/Sunset_Riders), entre muitos outros...
+- Com o poder da internet e evolução dos jogos, sempre jogo o gênero [MMORPG](https://pt.wikipedia.org/wiki/MMORPG), ou jogos COOP de uma forma geral, jogar sozinho mesmo o mais clássico eu acabo não me divertindo tanto, comparando com as altas gargalhadas com amigos e situações memoráveis que acontecem na maioria dos jogos multiplayer, seja por conta de história ou eventos do jogo mesmo ou bugs que acabam virando uma diversão.
+- Atualmente estou jogando [Diablo 3 Season 28](https://us.diablo3.blizzard.com/pt-br/).
+- Adoro correr e me exercitar! Tentando recuperar meus 10km, atualmente bati meus 7km de corrida, logo mais devo recuperar o folego de antigamente!
 
 #
 
@@ -167,5 +163,5 @@ Começando minha jornada foquei totalmente no contéudo oferecido pela trybe, on
 #
 
 <div align="right">
-  <img src="https://badgen.net/badge/last%20update/08-02-2023/blue">
+  <img src="https://badgen.net/badge/last%20update/27-02-2023/blue">
 </div>
