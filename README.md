@@ -1,16 +1,15 @@
 # Bem vindo ao meu github! :wave:
 
 Olá! Meu nome é [Davíd Roggér](https://www.linkedin.com/in/davidrogger/):bowtie:, moro no interior de [São Paulo](https://pt.wikipedia.org/wiki/S%C3%A3o_Paulo), uma cidade chamada [Boituva](https://www.boituva.sp.gov.br/), conhecida por ser a capital do paraquedismo!.
-Conclui meu estudos na [trybe](https://www.betrybe.com/) em janeiro e estou iniciando profissionalmente na área com desenvolvimento web fullstack.
+Conclui meu estudo na [trybe](https://www.betrybe.com/) em janeiro e estou iniciando profissionalmente na área com desenvolvimento web fullstack.
 ### Por que virar dev :computer:
 
 Minha paixão por jogos acabou criando consequentemente uma relação com tecnologia, inicialmente era aquela vontade de participar da criação de algum jogo, mas depois de um tempo estudando percebi que não era apenas isso mas por gostar de reconhecer padrões entendendo melhor os objetivos e desafios e estudar para evoluir.
-mais devo recuperar o folego de antigamente!
 
 ### Iniciando como dev :rocket:
 
-Analisando os ultimos 4 anos trabalhando como projetista, mesmo gostando muito da área, minha paixão por tecnológica ainda era maior e juntamente com a vontade de ter uma expeciência com horarios mais flexiveis trabalhando home office, abrindo possibilidades de trabalhar de qualquer lugar, sem preocupação com deslocamento, então no final do ano de 2021 resolvi me desligar da parte de projetos mecânicos, e focar totalmente na área de desenvolvimento, começando minha nova jornada como dev, cursando a [trybe](https://www.betrybe.com/).
-Começando minha jornada foquei totalmente no contéudo oferecido pela trybe, onde passei por 4 módulos. Estou aos poucos migrando cada projeto realizado na trybe, na seção de frontend você encontra alguns projetos desenvolvidos com react, prontos para acesso online!
+Analisando os últimos 4 anos trabalhando como projetista, mesmo gostando muito da área, minha paixão por tecnológica ainda era maior somando a vontade de ter uma experiência com horários mais flexíveis trabalhando home office, abrindo possibilidades de trabalhar de qualquer lugar, sem preocupação com deslocamento, então no final do ano de 2021 resolvi me desligar da parte de projetos mecânicos, e focar totalmente na área de desenvolvimento, começando minha nova jornada como dev, cursando a [trybe](https://www.betrybe.com/).
+Começando minha jornada foquei totalmente no conteúdo oferecido pela trybe, onde passei por 4 módulos. Estou aos poucos migrando cada projeto realizado na trybe, na seção de frontend você encontra alguns projetos desenvolvidos com react, prontos para acesso online!
 
 <details>
   <summary>
@@ -20,6 +19,7 @@ Começando minha jornada foquei totalmente no contéudo oferecido pela trybe, on
   </summary>
 
   #
+
   Onde conheci o github e seu funcionamento, aprendi minha primeira linguagem, Javascript e aumentei o nível de lógica de programação, focando sempre em boas práticas, foi apresentando e executado o uso de testes como algo fundamental no dia a dia para desenvolver aplicações com mais qualidade.
   
   [Detalhes dos projetos de Fundamentos](https://github.com/davidrogger/trybe-fundamentos)
@@ -34,7 +34,7 @@ Começando minha jornada foquei totalmente no contéudo oferecido pela trybe, on
   </summary>
 
   #
-  Esse modulo foi focado em aprender o funcionamento da biblioteca React.js, por ser muito reconhecida e usada no mercado de trabalho, aprendi a utilizar ela usando classes inicialmente para ser apto há realizar manutenção caso me depare com algum legado futuramente e por ser mais complicada comparando com sua versão funcional. Durante esse modulo foi abordado conceitos básicos e noções de uso do Agile usando Scrum e Kanban nos projetos em grupo.
+  Esse modulo foi focado em aprender o funcionamento da biblioteca React.js, por ser muito reconhecida e usada no mercado de trabalho, aprendi a utilizar ela usando classes inicialmente para ser apto há realizar manutenção caso me depare com algum legado futuramente e por ser mais complicada comparando com sua versão funcional. Durante esse módulo foi abordado conceitos básicos e noções de uso do Agile usando Scrum e Kanban nos projetos em grupo.
   
   [Detalhes dos projetos de Frontend](https://github.com/davidrogger/trybe-frontend)
    
@@ -51,7 +51,7 @@ Começando minha jornada foquei totalmente no contéudo oferecido pela trybe, on
   </summary>
 
   #
-  Aprendi sobre conteinerização usando Docker, e seus beneficios para garantir o funcionamento da aplicação em um ambiente de containers, foi o modulo mais longo e cansativo de todos modulos, por ter muito material teorico e conceitos, que pareciam muito confusos no começo, aprendi a desenvolver um código para back-end, robusto, usando Arquitetura de software seguindo padrão MSC, limpo, escalável usando banco de dados e realizando testes automátizados.
+  Conteinerização usando Docker, e seus benefícios para garantir o funcionamento da aplicação em um ambiente de contêineres, foi o modulo mais longo e cansativo, por ter muito material teórico e conceitos, que pareciam muito confusos no começo, aprendi a desenvolver um código para backend, robusto, usando Arquitetura de software seguindo padrão MSC, limpo, escalável usando banco de dados e realizando testes automatizados.
 
   [Detalhes dos projetos de Back-end](https://github.com/davidrogger/trybe-backend)
    
@@ -68,7 +68,7 @@ Começando minha jornada foquei totalmente no contéudo oferecido pela trybe, on
   </summary>
 
   #
-  Foi iniciada uma nova linguagem, Python, padrões de projetos, raspagem de dados, complexidade de tempo e espaço com algoritmos e estrutura de dados, com alocamento de memória, funcionamento de pilhas, filas, conjuntos entre muitas outros conceitos e padrões.
+  Iniciada uma nova linguagem, Python, padrões de projetos, raspagem de dados, complexidade de tempo e espaço com algoritmos e estrutura de dados, com alocamento de memória, funcionamento de pilhas, filas, conjuntos entre muitos outros conceitos e padrões.
 
   [Detalhes dos projetos de Ciência da Computação](https://github.com/davidrogger/trybe-cs)
 
@@ -99,17 +99,17 @@ Começando minha jornada foquei totalmente no contéudo oferecido pela trybe, on
 #
 ### Experiências Profissionais :wrench:
 
-- Suporte TI: Trabalhei por alguns anos prestando suporte e manutenção de computadores, onde realizava um atendimento direto ao publico, entendendo o defeito apresentado, e procurando a solução para resolução, com meus conhecimentos e habilidades de aprendizagem e colaboração como técnico me levaram para outra área de trabalho que era de projetista mecânico.
+- Suporte TI: Trabalhei por alguns anos prestando suporte e manutenção de computadores, onde realizava um atendimento direto ao público, entendendo o defeito apresentado, e procurando a solução para resolução, com meus conhecimentos e habilidades de aprendizagem e colaboração como técnico me levaram para outra área de trabalho que era de projetista mecânico.
 - Projetista: Onde desenvolvi uma habilidade mais analítica por ter que me atentar a detalhes para criar soluções de montagem mecânicas, eu desenhava armários, gabinetes, mobiliários conforme os padrões de ferramental da empresa.
 
 #
 
 ### Horas vagas :video_game:
 
-- Normalmente reuno com amigos para jogar ou apenas bater papo no [discord](https://en.wikipedia.org/wiki/Discord), sempre fui uma pessoa que gosta de jogos multiplayer, até mesmo fora da época de internet, minha irmã que o diga haha, a gente jogava muitos jogos juntos [Zombies Ate My Neighbors](https://pt.wikipedia.org/wiki/Zombies_Ate_My_Neighbors), [Sunset Riders](https://pt.wikipedia.org/wiki/Sunset_Riders), entre muitos outros...
-- Com o poder da internet e evolução dos jogos, sempre jogo o gênero [MMORPG](https://pt.wikipedia.org/wiki/MMORPG), ou jogos COOP de uma forma geral, jogar sozinho mesmo o mais classicos eu acabo não me divertindo tanto, comparando com as altas gargalhadas com amigos e situações memóraveis que acontecem na maioria dos jogos multiplayer, seja por conta de história ou eventos do jogo mesmo ou bugs que acabam virando uma diversão.
-- Atualmente estou jogando com o Gamepass, [Diablo 3 Season 28](https://us.diablo3.blizzard.com/pt-br/).
-- Adoro correr! Tentando recuperar meus 10km, atualmente bati meus 7km de corrida logo 
+- Normalmente reúno com amigos para jogar ou apenas conversar no [discord](https://en.wikipedia.org/wiki/Discord), sempre fui uma pessoa que gosta de jogos multiplayer, até mesmo fora da época de internet, minha irmã que o diga haha, a gente jogava muitos jogos juntos [Zombies Ate My Neighbors](https://pt.wikipedia.org/wiki/Zombies_Ate_My_Neighbors), [Sunset Riders](https://pt.wikipedia.org/wiki/Sunset_Riders), entre muitos outros...
+- Com o poder da internet e evolução dos jogos, sempre jogo o gênero [MMORPG](https://pt.wikipedia.org/wiki/MMORPG), ou jogos COOP de uma forma geral, jogar sozinho mesmo o mais clássico eu acabo não me divertindo tanto, comparando com as altas gargalhadas com amigos e situações memoráveis que acontecem na maioria dos jogos multiplayer, seja por conta de história ou eventos do jogo mesmo ou bugs que acabam virando uma diversão.
+- Atualmente estou jogando [Diablo 3 Season 28](https://us.diablo3.blizzard.com/pt-br/).
+- Adoro correr e me exercitar! Tentando recuperar meus 10km, atualmente bati meus 7km de corrida, logo mais devo recuperar o folego de antigamente!
 
 #
 
