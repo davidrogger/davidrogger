@@ -41,7 +41,7 @@ Começando minha jornada foquei totalmente no contéudo oferecido pela trybe, on
 <details>
   <summary>
     <strong>
-      :yellow_book: Frontend
+      :orange_book: Frontend
     </strong>
   </summary>
 
