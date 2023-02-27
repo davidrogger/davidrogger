@@ -48,7 +48,7 @@ Começando minha jornada foquei totalmente no contéudo oferecido pela trybe, on
   #
   Esse modulo foi focado em aprender o funcionamento da biblioteca React.js, por ser muito reconhecida e usada no mercado de trabalho, aprendi a utilizar ela usando classes inicialmente para ser apto há realizar manutenção caso me depare com algum legado futuramente e por ser mais complicada comparando com sua versão funcional. Durante esse modulo foi abordado conceitos básicos e noções de uso do Agile usando Scrum e Kanban nos projetos em grupo.
   
-  [Detalhes dos projetos de Front-end](https://github.com/davidrogger/trybe-frontend)
+  [Detalhes dos projetos de Frontend](https://github.com/davidrogger/trybe-frontend)
    
   </div>  
   </details>
@@ -58,7 +58,7 @@ Começando minha jornada foquei totalmente no contéudo oferecido pela trybe, on
 <details>
   <summary>
     <strong>
-      :blue_book: Back-end
+      :blue_book: Backend
     </strong>
   </summary>
 
@@ -161,5 +161,5 @@ Começando minha jornada foquei totalmente no contéudo oferecido pela trybe, on
 #
 
 <div align="right">
-  <img src="https://badgen.net/badge/last%20update/08-02-2023/blue">
+  <img src="https://badgen.net/badge/last%20update/27-02-2023/blue">
 </div>
