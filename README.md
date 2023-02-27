@@ -5,20 +5,8 @@ Conclui meu estudos na [trybe](https://www.betrybe.com/) em janeiro e estou inic
 ### Por que virar dev :computer:
 
 Minha paixão por jogos acabou criando consequentemente uma relação com tecnologia, inicialmente era aquela vontade de participar da criação de algum jogo, mas depois de um tempo estudando percebi que não era apenas isso mas por gostar de reconhecer padrões entendendo melhor os objetivos e desafios e estudar para evoluir.
+mais devo recuperar o folego de antigamente!
 
-### Horas vagas :video_game:
-
-- Normalmente reuno com amigos para jogar ou apenas bater papo no [discord](https://en.wikipedia.org/wiki/Discord), sempre fui uma pessoa que gosta de jogos multiplayer, até mesmo fora da época de internet, minha irmã que o diga haha, a gente jogava muitos jogos juntos [Zombies Ate My Neighbors](https://pt.wikipedia.org/wiki/Zombies_Ate_My_Neighbors), [Sunset Riders](https://pt.wikipedia.org/wiki/Sunset_Riders), entre muitos outros...
-- Com o poder da internet e evolução dos jogos, sempre jogo o gênero [MMORPG](https://pt.wikipedia.org/wiki/MMORPG), ou jogos COOP de uma forma geral, jogar sozinho mesmo o mais classicos eu acabo não me divertindo tanto, comparando com as altas gargalhadas com amigos e situações memóraveis que acontecem na maioria dos jogos multiplayer, seja por conta de história ou eventos do jogo mesmo ou bugs que acabam virando uma diversão.
-- Atualmente estou jogando com o Gamepass, [Diablo 3 Season 28](https://us.diablo3.blizzard.com/pt-br/).
-- Adoro correr! Tentando recuperar meus 10km, atualmente bati meus 7km de corrida logo mais devo recuperar o folego de antigamente!
-#
-### Experiências Profissionais :wrench:
-
-- Suporte TI: Trabalhei por alguns anos prestando suporte e manutenção de computadores, onde realizava um atendimento direto ao publico, entendendo o defeito apresentado, e procurando a solução para resolução, com meus conhecimentos e habilidades de aprendizagem e colaboração como técnico me levaram para outra área de trabalho que era de projetista mecânico.
-- Projetista: Onde desenvolvi uma habilidade mais analítica por ter que me atentar a detalhes para criar soluções de montagem mecânicas, eu desenhava armários, gabinetes, mobiliários conforme os padrões de ferramental da empresa.
-
-#
 ### Iniciando como dev :rocket:
 
 Analisando os ultimos 4 anos trabalhando como projetista, mesmo gostando muito da área, minha paixão por tecnológica ainda era maior e juntamente com a vontade de ter uma expeciência com horarios mais flexiveis trabalhando home office, abrindo possibilidades de trabalhar de qualquer lugar, sem preocupação com deslocamento, então no final do ano de 2021 resolvi me desligar da parte de projetos mecânicos, e focar totalmente na área de desenvolvimento, começando minha nova jornada como dev, cursando a [trybe](https://www.betrybe.com/).
@@ -93,12 +81,12 @@ Começando minha jornada foquei totalmente no contéudo oferecido pela trybe, on
 
   <div>
    <ol>
-    <li><a href="https://github.com/davidrogger/trybe-project-job-insights">Job Insights</li>
-    <li> <a href="https://github.com/davidrogger/trybe-project-inventory-report">Inventory Report</li>
-    <li> <a href="https://github.com/davidrogger/trybe-project-tech-news">Tech News</li>
-    <li> <a href="https://github.com/davidrogger/trybe-project-algorithms">Algorithms</li>
-    <li> <a href="https://github.com/davidrogger/trybe-project-ting">TING - Trybe Is Not Google</li>
-    <li> <a href="https://github.com/davidrogger/trybe-project-restaurant-orders">Restaurant Orders</li>
+    <li><a href="https://github.com/davidrogger/trybe-project-job-insights">Job Insights </a> </li>
+    <li> <a href="https://github.com/davidrogger/trybe-project-inventory-report">Inventory Report </a></li>
+    <li> <a href="https://github.com/davidrogger/trybe-project-tech-news">Tech News </a></li>
+    <li> <a href="https://github.com/davidrogger/trybe-project-algorithms">Algorithms </a></li>
+    <li> <a href="https://github.com/davidrogger/trybe-project-ting">TING - Trybe Is Not Google </a></li>
+    <li> <a href="https://github.com/davidrogger/trybe-project-restaurant-orders">Restaurant Orders </a></li>
    </ol>
    
   </div>
@@ -106,8 +94,22 @@ Começando minha jornada foquei totalmente no contéudo oferecido pela trybe, on
   
   </details>
 
-  #
 </details>
+
+#
+### Experiências Profissionais :wrench:
+
+- Suporte TI: Trabalhei por alguns anos prestando suporte e manutenção de computadores, onde realizava um atendimento direto ao publico, entendendo o defeito apresentado, e procurando a solução para resolução, com meus conhecimentos e habilidades de aprendizagem e colaboração como técnico me levaram para outra área de trabalho que era de projetista mecânico.
+- Projetista: Onde desenvolvi uma habilidade mais analítica por ter que me atentar a detalhes para criar soluções de montagem mecânicas, eu desenhava armários, gabinetes, mobiliários conforme os padrões de ferramental da empresa.
+
+#
+
+### Horas vagas :video_game:
+
+- Normalmente reuno com amigos para jogar ou apenas bater papo no [discord](https://en.wikipedia.org/wiki/Discord), sempre fui uma pessoa que gosta de jogos multiplayer, até mesmo fora da época de internet, minha irmã que o diga haha, a gente jogava muitos jogos juntos [Zombies Ate My Neighbors](https://pt.wikipedia.org/wiki/Zombies_Ate_My_Neighbors), [Sunset Riders](https://pt.wikipedia.org/wiki/Sunset_Riders), entre muitos outros...
+- Com o poder da internet e evolução dos jogos, sempre jogo o gênero [MMORPG](https://pt.wikipedia.org/wiki/MMORPG), ou jogos COOP de uma forma geral, jogar sozinho mesmo o mais classicos eu acabo não me divertindo tanto, comparando com as altas gargalhadas com amigos e situações memóraveis que acontecem na maioria dos jogos multiplayer, seja por conta de história ou eventos do jogo mesmo ou bugs que acabam virando uma diversão.
+- Atualmente estou jogando com o Gamepass, [Diablo 3 Season 28](https://us.diablo3.blizzard.com/pt-br/).
+- Adoro correr! Tentando recuperar meus 10km, atualmente bati meus 7km de corrida logo 
 
 #
 
