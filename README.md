@@ -1,20 +1,17 @@
 # Bem vindo ao meu github! :wave:
 
-Olá! Meu nome é [Davíd Roggér](https://www.linkedin.com/in/davidrogger/):bowtie:, moro no interior de [São Paulo](https://pt.wikipedia.org/wiki/S%C3%A3o_Paulo), uma cidade chamada [Boituva](https://www.boituva.sp.gov.br/), acabei de me formar na [trybe](https://www.betrybe.com/) e estou iniciando profissionalmente na área com desenvolvimento web fullstack.
+Olá! Meu nome é [Davíd Roggér](https://www.linkedin.com/in/davidrogger/):bowtie:, moro no interior de [São Paulo](https://pt.wikipedia.org/wiki/S%C3%A3o_Paulo), uma cidade chamada [Boituva](https://www.boituva.sp.gov.br/), conhecida por ser a capital do paraquedismo!.
+Conclui meu estudos na [trybe](https://www.betrybe.com/) em janeiro e estou iniciando profissionalmente na área com desenvolvimento web fullstack.
 ### Por que virar dev :computer:
 
-Minha paixão por jogos acabou criando consequentemente uma relação com tecnologia, inicialmente era aquela vontade de participar ou criar algum jogo, mas depois de um tempo estudando percebi que não era apenas isso mas por gostar de reconhecer padrões entendendo melhor os objetivos e desafios para evoluir.
+Minha paixão por jogos acabou criando consequentemente uma relação com tecnologia, inicialmente era aquela vontade de participar da criação de algum jogo, mas depois de um tempo estudando percebi que não era apenas isso mas por gostar de reconhecer padrões entendendo melhor os objetivos e desafios e estudar para evoluir.
 
-### Metas :dart:
-
-Minha meta esse ano, é de consolidar mais o habito de sempre estudar, aumentando mais meus conhecimento seguindo os mesmos passos que segui no ano de 2022, mantendo atualizado sobre boas práticas, código limpo, escalabilidade, complexidade de tempo/espaço, padrão de projetos e ter um foco maior em estudar autocinhecimento entendendo melhor meus valores e talentos com um foco em encontrar uma empresa que tenha os mesmo valores de evolução conjunta e confiança. Ja tenho algumas que estou de olho, espero aprender muito durante o processo seletivo mesmo se não for aceito de primeira!
-
-### O que faço em minhas horas vagas :video_game:
+### Horas vagas :video_game:
 
 - Normalmente reuno com amigos para jogar ou apenas bater papo no [discord](https://en.wikipedia.org/wiki/Discord), sempre fui uma pessoa que gosta de jogos multiplayer, até mesmo fora da época de internet, minha irmã que o diga haha, a gente jogava muitos jogos juntos [Zombies Ate My Neighbors](https://pt.wikipedia.org/wiki/Zombies_Ate_My_Neighbors), [Sunset Riders](https://pt.wikipedia.org/wiki/Sunset_Riders), entre muitos outros...
-- Com o poder da internet e evolução dos jogos, sempre jogo o gênero [MMORPG](https://pt.wikipedia.org/wiki/MMORPG), ou jogos COOP.
-- Atualmente estou jogando com o Gamepass, [Monster Hunter Rise](https://www.xbox.com/en-US/games/monster-hunter-rise).
-- E também eu adoro correr! Tentando recuperar meus 10km, atualmente bati meus 7km de corrida logo mais devo recuperar o folego de antigamente!
+- Com o poder da internet e evolução dos jogos, sempre jogo o gênero [MMORPG](https://pt.wikipedia.org/wiki/MMORPG), ou jogos COOP de uma forma geral, jogar sozinho mesmo o mais classicos eu acabo não me divertindo tanto, comparando com as altas gargalhadas com amigos e situações memóraveis que acontecem na maioria dos jogos multiplayer, seja por conta de história ou eventos do jogo mesmo ou bugs que acabam virando uma diversão.
+- Atualmente estou jogando com o Gamepass, [Diablo 3 Season 28](https://us.diablo3.blizzard.com/pt-br/).
+- Adoro correr! Tentando recuperar meus 10km, atualmente bati meus 7km de corrida logo mais devo recuperar o folego de antigamente!
 #
 ### Experiências Profissionais :wrench:
 
@@ -30,7 +27,7 @@ Começando minha jornada foquei totalmente no contéudo oferecido pela trybe, on
 <details>
   <summary>
     <strong>
-      :rocket: Fundamentos
+      :green_book: Fundamentos
     </strong>
   </summary>
 
@@ -44,7 +41,7 @@ Começando minha jornada foquei totalmente no contéudo oferecido pela trybe, on
 <details>
   <summary>
     <strong>
-      :green_book: Frontend
+      :yellow_book: Frontend
     </strong>
   </summary>
 
@@ -61,7 +58,7 @@ Começando minha jornada foquei totalmente no contéudo oferecido pela trybe, on
 <details>
   <summary>
     <strong>
-      :construction: Back-end
+      :blue_book: Back-end
     </strong>
   </summary>
 
@@ -71,9 +68,6 @@ Começando minha jornada foquei totalmente no contéudo oferecido pela trybe, on
   [Detalhes dos projetos de Back-end](https://github.com/davidrogger/trybe-backend)
    
   </div>
-
-  
-  </details>
 
   #
 </details>
