@@ -63,7 +63,7 @@ Começando minha jornada foquei totalmente no conteúdo oferecido pela trybe, on
 <details>
   <summary>
     <strong>
-      :books: Ciências da Computação
+      :books: Ciência da Computação
     </strong>
   </summary>
 
