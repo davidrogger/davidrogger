@@ -63,36 +63,14 @@ Começando minha jornada foquei totalmente no conteúdo oferecido pela trybe, on
 <details>
   <summary>
     <strong>
-      :construction: Ciências da Computação
+      :books: Ciências da Computação
     </strong>
   </summary>
 
   #
   Iniciada uma nova linguagem, Python, padrões de projetos, raspagem de dados, complexidade de tempo e espaço com algoritmos e estrutura de dados, com alocamento de memória, funcionamento de pilhas, filas, conjuntos entre muitos outros conceitos e padrões.
 
-  [Detalhes dos projetos de Ciência da Computação](https://github.com/davidrogger/trybe-cs)
-
-  <details>
-    <summary>
-      <strong>
-        Projetos de Ciências da Computação
-      </strong>
-    </summary>
-
-  <div>
-   <ol>
-    <li><a href="https://github.com/davidrogger/trybe-project-job-insights">Job Insights </a> </li>
-    <li> <a href="https://github.com/davidrogger/trybe-project-inventory-report">Inventory Report </a></li>
-    <li> <a href="https://github.com/davidrogger/trybe-project-tech-news">Tech News </a></li>
-    <li> <a href="https://github.com/davidrogger/trybe-project-algorithms">Algorithms </a></li>
-    <li> <a href="https://github.com/davidrogger/trybe-project-ting">TING - Trybe Is Not Google </a></li>
-    <li> <a href="https://github.com/davidrogger/trybe-project-restaurant-orders">Restaurant Orders </a></li>
-   </ol>
-   
-  </div>
-
-  
-  </details>
+  [Detalhes dos projetos de Ciência da Computação](https://github.com/davidrogger/trybe-ciencia-da-computacao)
 
 </details>
 
