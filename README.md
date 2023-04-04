@@ -119,6 +119,7 @@ Começando minha jornada foquei totalmente no conteúdo oferecido pela trybe, on
 ![Python](https://img.shields.io/badge/-Python-%23F7DF1C?style=flat-square&logo=python)
 ![Pytest](https://img.shields.io/badge/-Pytest-fff?style=flat-square&logo=pytest)
 ![Pymongo](https://img.shields.io/badge/-Pymongo-b?style=flat-square&logo=Pymongo)
+![Vue.js](https://img.shields.io/badge/-Vue.js-1A1A1A?style=flat-square&logo=vue.js)
 
 
 <div align="center">
@@ -141,5 +142,5 @@ Começando minha jornada foquei totalmente no conteúdo oferecido pela trybe, on
 #
 
 <div align="right">
-  <img src="https://badgen.net/badge/last%20update/27-02-2023/blue">
+  <img src="https://badgen.net/badge/last%20update/04-04-2023/blue">
 </div>
