@@ -1,15 +1,15 @@
 # Bem vindo ao meu github! :wave:
 
 Olá! Meu nome é [Davíd Roggér](https://www.linkedin.com/in/davidrogger/):bowtie:, moro no interior de [São Paulo](https://pt.wikipedia.org/wiki/S%C3%A3o_Paulo), uma cidade chamada [Boituva](https://www.boituva.sp.gov.br/), conhecida por ser a capital do paraquedismo!.
-Conclui meu estudo na [trybe](https://www.betrybe.com/) em janeiro e estou iniciando profissionalmente na área com desenvolvimento web fullstack.
+
 ### Por que virar dev :computer:
 
-Minha paixão por jogos acabou criando consequentemente uma relação com tecnologia, inicialmente era aquela vontade de participar da criação de algum jogo, mas depois de um tempo estudando percebi que não era apenas isso mas por gostar de reconhecer padrões entendendo melhor os objetivos e desafios e estudar para evoluir.
+Minha paixão por jogos acabou criando uma relação com tecnologia, inicialmente era aquela vontade de participar da criação de algum jogo, mas depois de um tempo estudando percebi que não era apenas isso mas por gostar de reconhecer padrões entendendo melhor os objetivos e desafios e estudar para evoluir, juntamente com a curiosidade de saber como as "coisas" funcinavam.
 
 ### Iniciando como dev :rocket:
 
-Analisando os últimos 4 anos trabalhando como projetista, mesmo gostando muito da área, minha paixão por tecnológica ainda era maior somando a vontade de ter uma experiência com horários mais flexíveis trabalhando home office, abrindo possibilidades de trabalhar de qualquer lugar, sem preocupação com deslocamento, então no final do ano de 2021 resolvi me desligar da parte de projetos mecânicos, e focar totalmente na área de desenvolvimento, começando minha nova jornada como dev, cursando a [trybe](https://www.betrybe.com/).
-Começando minha jornada foquei totalmente no conteúdo oferecido pela trybe, onde passei por 4 módulos. Estou aos poucos migrando cada projeto realizado na trybe, na seção de frontend você encontra alguns projetos desenvolvidos com react, prontos para acesso online!
+Analisando os últimos anos trabalhando como projetista, mesmo gostando muito da área, minha paixão por tecnológica ainda era maior somando a vontade de ter uma experiência com horários mais flexíveis trabalhando home office, abrindo possibilidades de trabalhar de qualquer lugar, sem preocupação com deslocamento, então no final do ano de 2021 resolvi me desligar da parte de projetos mecânicos, e focar totalmente na área de desenvolvimento, começando minha nova jornada como dev, cursando a [trybe](https://www.betrybe.com/).
+Começando minha jornada foquei totalmente no conteúdo oferecido pela trybe, onde passei por 4 módulos.
 
 <details>
   <summary>
