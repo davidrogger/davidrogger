@@ -77,8 +77,9 @@ Começando minha jornada foquei totalmente no conteúdo oferecido pela trybe, on
 #
 ### Experiências Profissionais :wrench:
 
-- Suporte TI: Trabalhei por alguns anos prestando suporte e manutenção de computadores, onde realizava um atendimento direto ao público, entendendo o defeito apresentado, e procurando a solução para resolução, com meus conhecimentos e habilidades de aprendizagem e colaboração como técnico me levaram para outra área de trabalho que era de projetista mecânico.
-- Projetista: Onde desenvolvi uma habilidade mais analítica por ter que me atentar a detalhes para criar soluções de montagem mecânicas, eu desenhava armários, gabinetes, mobiliários conforme os padrões de ferramental da empresa.
+- Projetista: Onde desenvolvi uma habilidade mais analítica, que foi de extrema necessidade para criar soluções de montagem mecânicas, eu desenhava armários, gabinetes, mobiliários conforme os padrões de ferramental da empresa, todos em chapa metálica.
+
+- Suporte TI: Trabalhei por alguns anos prestando suporte e manutenção de computadores, onde realizava um atendimento direto ao público, analisando o defeito apresentado, e procurando a solução, com meus conhecimentos e habilidades de aprendizagem e colaboração como técnico atendendo uma empresa me levaram para outra área de trabalho que era de projetista mecânico.
 
 #
 
