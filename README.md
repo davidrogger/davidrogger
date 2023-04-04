@@ -1,15 +1,15 @@
 # Bem vindo ao meu github! :wave:
 
 Olá! Meu nome é [Davíd Roggér](https://www.linkedin.com/in/davidrogger/):bowtie:, moro no interior de [São Paulo](https://pt.wikipedia.org/wiki/S%C3%A3o_Paulo), uma cidade chamada [Boituva](https://www.boituva.sp.gov.br/), conhecida por ser a capital do paraquedismo!.
-Conclui meu estudo na [trybe](https://www.betrybe.com/) em janeiro e estou iniciando profissionalmente na área com desenvolvimento web fullstack.
+
 ### Por que virar dev :computer:
 
-Minha paixão por jogos acabou criando consequentemente uma relação com tecnologia, inicialmente era aquela vontade de participar da criação de algum jogo, mas depois de um tempo estudando percebi que não era apenas isso mas por gostar de reconhecer padrões entendendo melhor os objetivos e desafios e estudar para evoluir.
+Minha paixão por jogos acabou criando uma relação com tecnologia, inicialmente era aquela vontade de participar da criação de algum jogo, mas depois de um tempo estudando percebi que não era apenas isso mas por gostar de reconhecer padrões entendendo melhor os objetivos e desafios e estudar para evoluir, juntamente com a curiosidade de saber como as "coisas" funcinavam.
 
 ### Iniciando como dev :rocket:
 
-Analisando os últimos 4 anos trabalhando como projetista, mesmo gostando muito da área, minha paixão por tecnológica ainda era maior somando a vontade de ter uma experiência com horários mais flexíveis trabalhando home office, abrindo possibilidades de trabalhar de qualquer lugar, sem preocupação com deslocamento, então no final do ano de 2021 resolvi me desligar da parte de projetos mecânicos, e focar totalmente na área de desenvolvimento, começando minha nova jornada como dev, cursando a [trybe](https://www.betrybe.com/).
-Começando minha jornada foquei totalmente no conteúdo oferecido pela trybe, onde passei por 4 módulos. Estou aos poucos migrando cada projeto realizado na trybe, na seção de frontend você encontra alguns projetos desenvolvidos com react, prontos para acesso online!
+Analisando os últimos anos trabalhando como projetista, mesmo gostando muito da área, minha paixão por tecnológica ainda era maior somando a vontade de ter uma experiência com horários mais flexíveis trabalhando home office, abrindo possibilidades de trabalhar de qualquer lugar, sem preocupação com deslocamento, então no final do ano de 2021 resolvi me desligar da parte de projetos mecânicos, e focar totalmente na área de desenvolvimento, começando minha nova jornada como dev, cursando a [trybe](https://www.betrybe.com/).
+Começando minha jornada foquei totalmente no conteúdo oferecido pela trybe, onde passei por 4 módulos.
 
 <details>
   <summary>
@@ -77,17 +77,18 @@ Começando minha jornada foquei totalmente no conteúdo oferecido pela trybe, on
 #
 ### Experiências Profissionais :wrench:
 
-- Suporte TI: Trabalhei por alguns anos prestando suporte e manutenção de computadores, onde realizava um atendimento direto ao público, entendendo o defeito apresentado, e procurando a solução para resolução, com meus conhecimentos e habilidades de aprendizagem e colaboração como técnico me levaram para outra área de trabalho que era de projetista mecânico.
-- Projetista: Onde desenvolvi uma habilidade mais analítica por ter que me atentar a detalhes para criar soluções de montagem mecânicas, eu desenhava armários, gabinetes, mobiliários conforme os padrões de ferramental da empresa.
+- Projetista: Onde desenvolvi uma habilidade mais analítica, que foi de extrema necessidade para criar soluções de montagem mecânicas, eu desenhava armários, gabinetes, mobiliários conforme os padrões de ferramental da empresa, todos em chapa metálica.
+
+- Suporte TI: Trabalhei por alguns anos prestando suporte e manutenção de computadores, onde realizava um atendimento direto ao público, analisando o defeito apresentado, e procurando a solução, com meus conhecimentos e habilidades de aprendizagem e colaboração como técnico atendendo uma empresa me levaram para outra área de trabalho que era de projetista mecânico.
 
 #
 
 ### Horas vagas :video_game:
 
-- Normalmente reúno com amigos para jogar ou apenas conversar no [discord](https://en.wikipedia.org/wiki/Discord), sempre fui uma pessoa que gosta de jogos multiplayer, até mesmo fora da época de internet, minha irmã que o diga haha, a gente jogava muitos jogos juntos [Zombies Ate My Neighbors](https://pt.wikipedia.org/wiki/Zombies_Ate_My_Neighbors), [Sunset Riders](https://pt.wikipedia.org/wiki/Sunset_Riders), entre muitos outros...
-- Com o poder da internet e evolução dos jogos, sempre jogo o gênero [MMORPG](https://pt.wikipedia.org/wiki/MMORPG), ou jogos COOP de uma forma geral, jogar sozinho mesmo o mais clássico eu acabo não me divertindo tanto, comparando com as altas gargalhadas com amigos e situações memoráveis que acontecem na maioria dos jogos multiplayer, seja por conta de história ou eventos do jogo mesmo ou bugs que acabam virando uma diversão.
-- Atualmente estou jogando [Diablo 3 Season 28](https://us.diablo3.blizzard.com/pt-br/).
-- Adoro correr e me exercitar! Tentando recuperar meus 10km, atualmente bati meus 7km de corrida, logo mais devo recuperar o folego de antigamente!
+- Normalmente reúno com amigos para jogar e bater um papo no [discord](https://en.wikipedia.org/wiki/Discord), sempre fui uma pessoa que gosta de jogos multiplayer, até mesmo fora da época de internet, minha irmã que o diga haha, nós jogavamos muitos jogos do super snes [Zombies Ate My Neighbors](https://pt.wikipedia.org/wiki/Zombies_Ate_My_Neighbors), [Sunset Riders](https://pt.wikipedia.org/wiki/Sunset_Riders), entre muitos outros...
+- Com o poder da internet e evolução dos jogos, sempre jogo o gênero [MMORPG](https://pt.wikipedia.org/wiki/MMORPG), ou jogos COOP de uma forma geral, jogar sozinho mesmo o mais clássico eu acabo não me divertindo tanto, comparando com as altas gargalhadas com amigos e situações memoráveis que acontecem, seja por conta de história ou eventos do jogo mesmo ou bugs que acabam virando uma diversão.
+- Atualmente estou jogando [Deep Rock Galactic](https://store.steampowered.com/app/548430/Deep_Rock_Galactic/) e ancioso aguardando pelo lançamento do [diablo 4](https://diablo4.blizzard.com/pt-br/).
+- Para manter a harmonita de atividades físicas eu acabei pegando gosto por me desafiar nas corridas, com a pandemia eu acabei parando, e no final do ano passado eu voltei a correr, pouco a pouco estou recuperando a força e o folego, estou batendo atualmente 8.5km em um percurso de rua que faço 3 vezes na semana.
 
 #
 
@@ -119,6 +120,7 @@ Começando minha jornada foquei totalmente no conteúdo oferecido pela trybe, on
 ![Python](https://img.shields.io/badge/-Python-%23F7DF1C?style=flat-square&logo=python)
 ![Pytest](https://img.shields.io/badge/-Pytest-fff?style=flat-square&logo=pytest)
 ![Pymongo](https://img.shields.io/badge/-Pymongo-b?style=flat-square&logo=Pymongo)
+![Vue.js](https://img.shields.io/badge/-Vue.js-1A1A1A?style=flat-square&logo=vue.js)
 
 
 <div align="center">
@@ -141,5 +143,5 @@ Começando minha jornada foquei totalmente no conteúdo oferecido pela trybe, on
 #
 
 <div align="right">
-  <img src="https://badgen.net/badge/last%20update/27-02-2023/blue">
+  <img src="https://badgen.net/badge/last%20update/04-04-2023/blue">
 </div>
