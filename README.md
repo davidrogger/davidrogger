@@ -84,10 +84,10 @@ Começando minha jornada foquei totalmente no conteúdo oferecido pela trybe, on
 
 ### Horas vagas :video_game:
 
-- Normalmente reúno com amigos para jogar ou apenas conversar no [discord](https://en.wikipedia.org/wiki/Discord), sempre fui uma pessoa que gosta de jogos multiplayer, até mesmo fora da época de internet, minha irmã que o diga haha, a gente jogava muitos jogos juntos [Zombies Ate My Neighbors](https://pt.wikipedia.org/wiki/Zombies_Ate_My_Neighbors), [Sunset Riders](https://pt.wikipedia.org/wiki/Sunset_Riders), entre muitos outros...
-- Com o poder da internet e evolução dos jogos, sempre jogo o gênero [MMORPG](https://pt.wikipedia.org/wiki/MMORPG), ou jogos COOP de uma forma geral, jogar sozinho mesmo o mais clássico eu acabo não me divertindo tanto, comparando com as altas gargalhadas com amigos e situações memoráveis que acontecem na maioria dos jogos multiplayer, seja por conta de história ou eventos do jogo mesmo ou bugs que acabam virando uma diversão.
-- Atualmente estou jogando [Diablo 3 Season 28](https://us.diablo3.blizzard.com/pt-br/).
-- Adoro correr e me exercitar! Tentando recuperar meus 10km, atualmente bati meus 7km de corrida, logo mais devo recuperar o folego de antigamente!
+- Normalmente reúno com amigos para jogar e bater um papo no [discord](https://en.wikipedia.org/wiki/Discord), sempre fui uma pessoa que gosta de jogos multiplayer, até mesmo fora da época de internet, minha irmã que o diga haha, nós jogavamos muitos jogos do super snes [Zombies Ate My Neighbors](https://pt.wikipedia.org/wiki/Zombies_Ate_My_Neighbors), [Sunset Riders](https://pt.wikipedia.org/wiki/Sunset_Riders), entre muitos outros...
+- Com o poder da internet e evolução dos jogos, sempre jogo o gênero [MMORPG](https://pt.wikipedia.org/wiki/MMORPG), ou jogos COOP de uma forma geral, jogar sozinho mesmo o mais clássico eu acabo não me divertindo tanto, comparando com as altas gargalhadas com amigos e situações memoráveis que acontecem, seja por conta de história ou eventos do jogo mesmo ou bugs que acabam virando uma diversão.
+- Atualmente estou jogando [Deep Rock Galactic](https://store.steampowered.com/app/548430/Deep_Rock_Galactic/) e ancioso aguardando pelo lançamento do [diablo 4](https://diablo4.blizzard.com/pt-br/).
+- Para manter a harmonita de atividades físicas eu acabei pegando gosto por me desafiar nas corridas, com a pandemia eu acabei parando, e no final do ano passado eu voltei a correr, pouco a pouco estou recuperando a força e o folego, estou batendo atualmente 8.5km em um percurso de rua que faço 3 vezes na semana.
 
 #
 
